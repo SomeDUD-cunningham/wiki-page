@@ -1,0 +1,41 @@
+a:61:{i:0;a:3:{i:0;s:14:"document_start";i:1;a:0:{}i:2;i:0;}i:1;a:3:{i:0;s:6:"header";i:1;a:3:{i:0;s:36:"1Malaysia Development Berhad scandal";i:1;i:1;i:2;i:1;}i:2;i:1;}i:2;a:3:{i:0;s:12:"section_open";i:1;a:1:{i:0;i:1;}i:2;i:1;}i:3;a:3:{i:0;s:6:"plugin";i:1;a:4:{i:0;s:15:"caption_caption";i:1;a:2:{i:0;i:1;i:1;s:16:"figure fig_label";}i:2;i:1;i:3;s:18:"<figure fig_label>";}i:2;i:53;}i:4;a:3:{i:0;s:6:"plugin";i:1;a:4:{i:0;s:15:"caption_caption";i:1;a:2:{i:0;i:3;i:1;s:1:"
+";}i:2;i:3;i:3;s:1:"
+";}i:2;i:71;}i:5;a:3:{i:0;s:13:"internalmedia";i:1;a:7:{i:0;s:29:":40835468003_febf59301f_c.jpg";i:1;s:0:"";i:2;s:4:"left";i:3;s:3:"400";i:4;N;i:5;s:5:"cache";i:6;s:7:"details";}i:2;i:72;}i:6;a:3:{i:0;s:6:"plugin";i:1;a:4:{i:0;s:15:"caption_caption";i:1;a:2:{i:0;i:3;i:1;s:1:"
+";}i:2;i:3;i:3;s:1:"
+";}i:2;i:111;}i:7;a:3:{i:0;s:6:"plugin";i:1;a:4:{i:0;s:15:"caption_caption";i:1;a:2:{i:0;i:2;i:1;s:9:"<caption>";}i:2;i:2;i:3;s:9:"<caption>";}i:2;i:112;}i:8;a:3:{i:0;s:6:"plugin";i:1;a:4:{i:0;s:15:"caption_caption";i:1;a:2:{i:0;i:3;i:1;s:92:"United States returns more than RM800 million to Malaysia in recovered 1MDB funds [ Source: ";}i:2;i:3;i:3;s:92:"United States returns more than RM800 million to Malaysia in recovered 1MDB funds [ Source: ";}i:2;i:121;}i:9;a:3:{i:0;s:12:"externallink";i:1;a:2:{i:0;s:54:"https://www.flickr.com/photos/52445638@N06/40835468003";i:1;s:27:" US embassy to Kuala Lumpur";}i:2;i:213;}i:10;a:3:{i:0;s:6:"plugin";i:1;a:4:{i:0;s:15:"caption_caption";i:1;a:2:{i:0;i:3;i:1;s:2:" ]";}i:2;i:3;i:3;s:2:" ]";}i:2;i:300;}i:11;a:3:{i:0;s:6:"plugin";i:1;a:4:{i:0;s:15:"caption_caption";i:1;a:2:{i:0;i:2;i:1;s:10:"</caption>";}i:2;i:2;i:3;s:10:"</caption>";}i:2;i:302;}i:12;a:3:{i:0;s:6:"plugin";i:1;a:4:{i:0;s:15:"caption_caption";i:1;a:2:{i:0;i:3;i:1;s:1:"
+";}i:2;i:3;i:3;s:1:"
+";}i:2;i:312;}i:13;a:3:{i:0;s:6:"plugin";i:1;a:4:{i:0;s:15:"caption_caption";i:1;a:2:{i:0;i:4;i:1;s:7:"/figure";}i:2;i:4;i:3;s:9:"</figure>";}i:2;i:313;}i:14;a:3:{i:0;s:13:"section_close";i:1;a:0:{}i:2;i:324;}i:15;a:3:{i:0;s:6:"header";i:1;a:3:{i:0;s:12:"Introduction";i:1;i:3;i:2;i:324;}i:2;i:324;}i:16;a:3:{i:0;s:12:"section_open";i:1;a:1:{i:0;i:3;}i:2;i:324;}i:17;a:3:{i:0;s:6:"p_open";i:1;a:0:{}i:2;i:324;}i:18;a:3:{i:0;s:5:"cdata";i:1;a:1:{i:0;s:346:"The 1Malaysia Development Berhad (1MDB) scandal is one of the largest
+financial frauds in recent history, involving a state-owned investment fund in
+Malaysia. Initially set up in 2009 by then-Prime Minister Najib Razak to promote
+economic development, the fund became embroiled in a multi-billion-dollar
+money laundering and embezzlement scandal.";}i:2;i:348;}i:19;a:3:{i:0;s:7:"p_close";i:1;a:0:{}i:2;i:694;}i:20;a:3:{i:0;s:13:"section_close";i:1;a:0:{}i:2;i:696;}i:21;a:3:{i:0;s:6:"header";i:1;a:3:{i:0;s:19:"Controversy of 1MDB";i:1;i:3;i:2;i:696;}i:2;i:696;}i:22;a:3:{i:0;s:12:"section_open";i:1;a:1:{i:0;i:3;}i:2;i:696;}i:23;a:3:{i:0;s:6:"p_open";i:1;a:0:{}i:2;i:696;}i:24;a:3:{i:0;s:5:"cdata";i:1;a:1:{i:0;s:379:"In 2009, then-Prime Minister Najib Razak established 1MDB, a sovereign wealth
+fund, aiming to drive economic growth and infrastructure development, and reduce
+poverty. The funds were to be used for securing investment in projects that would be
+beneficial for the country and the people. However, the funds were instead stolen,
+laundered and used for lavish personal expenditures.";}i:2;i:727;}i:25;a:3:{i:0;s:7:"p_close";i:1;a:0:{}i:2;i:1106;}i:26;a:3:{i:0;s:6:"p_open";i:1;a:0:{}i:2;i:1106;}i:27;a:3:{i:0;s:5:"cdata";i:1;a:1:{i:0;s:369:"Jho Low, a malaysian businessman, was a key mastermind behind this scandal having
+used the funds for his personal use and even purchasing luxury property and artworks.
+The funds raised by 1MDB were diverted through a series of corrupt transactions and
+shell companies. A significant portion was funneled to Low who had close ties to Najib
+and others in the government. ";}i:2;i:1108;}i:28;a:3:{i:0;s:7:"p_close";i:1;a:0:{}i:2;i:1477;}i:29;a:3:{i:0;s:6:"p_open";i:1;a:0:{}i:2;i:1477;}i:30;a:3:{i:0;s:5:"cdata";i:1;a:1:{i:0;s:616:"These misappropriated funds were used to purchase luxury assets worldwide, including high-end real estate in New York, London, and Los Angeles. For example, Low used stolen 1MDB funds to buy a $250 million yacht and a
+$35 million penthouse. He also financed the production of the Hollywood film The Wolf
+of Wall Street through a company linked to Najib’s stepson, Riza Aziz. It was revealed
+that millions of dollars from 1MDB were spent on personal luxuries like expensive
+artwork and jewelry. $1 billion of stolen funds went to shell companies that hid the true
+origins of the money, making it difficult to trace.";}i:2;i:1479;}i:31;a:3:{i:0;s:7:"p_close";i:1;a:0:{}i:2;i:2095;}i:32;a:3:{i:0;s:6:"p_open";i:1;a:0:{}i:2;i:2095;}i:33;a:3:{i:0;s:5:"cdata";i:1;a:1:{i:0;s:505:"The scandal had involved several countries, including the United States, Switzerland,
+and Singapore. The U.S. Department of Justice (DOJ) launched a civil suit in 2016
+seeking to recover more than $1.7 billion in assets linked to the corruption, including
+luxury real estate, art, and even a private jet. The DOJ's suit described how the stolen
+funds were used to fund political contributions, including $8 million funneled into a
+campaign to support the re-election of former U.S. President Barack Obama.";}i:2;i:2097;}i:34;a:3:{i:0;s:7:"p_close";i:1;a:0:{}i:2;i:2602;}i:35;a:3:{i:0;s:6:"p_open";i:1;a:0:{}i:2;i:2602;}i:36;a:3:{i:0;s:5:"cdata";i:1;a:1:{i:0;s:294:"In 2020, Goldman Sachs, an investment bank that helped facilitate bond sales for
+1MDB, reached a $3.9 billion settlement for its role in the scandal. The bank’s
+involvement included underwriting $6.5 billion in bonds, a portion of which was siphoned
+off to the criminals behind the operation.";}i:2;i:2604;}i:37;a:3:{i:0;s:7:"p_close";i:1;a:0:{}i:2;i:2898;}i:38;a:3:{i:0;s:6:"p_open";i:1;a:0:{}i:2;i:2898;}i:39;a:3:{i:0;s:5:"cdata";i:1;a:1:{i:0;s:276:"While Najib Razak was arrested and convicted in Malaysia, facing charges of
+embezzlement and money laundering, Jho Low remains a fugitive. He is believed to be
+hiding in China or the Middle East, and despite international warrants for his arrest, he
+has not yet been captured.";}i:2;i:2900;}i:40;a:3:{i:0;s:7:"p_close";i:1;a:0:{}i:2;i:3176;}i:41;a:3:{i:0;s:6:"p_open";i:1;a:0:{}i:2;i:3176;}i:42;a:3:{i:0;s:5:"cdata";i:1;a:1:{i:0;s:267:"The 1MDB scandal underlines the issue of state capture where leaders use state
+resources for personal enrichment. It exposed how public funds can be easily
+misappropriated and laundered through complex financial networks, crossing borders
+without immediate detection.";}i:2;i:3178;}i:43;a:3:{i:0;s:7:"p_close";i:1;a:0:{}i:2;i:3445;}i:44;a:3:{i:0;s:6:"p_open";i:1;a:0:{}i:2;i:3445;}i:45;a:3:{i:0;s:5:"cdata";i:1;a:1:{i:0;s:292:"In Malaysia, the corruption investigation helped lead to Najib Razak’s defeat in the 2018
+general elections, ending his political career. The scandal also underscored the need
+for greater financial transparency and stricter regulations to prevent such massive
+abuses of power in the future.";}i:2;i:3447;}i:46;a:3:{i:0;s:7:"p_close";i:1;a:0:{}i:2;i:3739;}i:47;a:3:{i:0;s:13:"section_close";i:1;a:0:{}i:2;i:3741;}i:48;a:3:{i:0;s:6:"header";i:1;a:3:{i:0;s:7:"Source:";i:1;i:3;i:2;i:3741;}i:2;i:3741;}i:49;a:3:{i:0;s:12:"section_open";i:1;a:1:{i:0;i:3;}i:2;i:3741;}i:50;a:3:{i:0;s:6:"p_open";i:1;a:0:{}i:2;i:3741;}i:51;a:3:{i:0;s:12:"externallink";i:1;a:2:{i:0;s:105:"https://www.theguardian.com/world/2018/oct/25/1mdb-scandal-explained-a-tale-of-malaysias-missing-billions";i:1;N;}i:2;i:3758;}i:52;a:3:{i:0;s:7:"p_close";i:1;a:0:{}i:2;i:3863;}i:53;a:3:{i:0;s:6:"p_open";i:1;a:0:{}i:2;i:3863;}i:54;a:3:{i:0;s:12:"externallink";i:1;a:2:{i:0;s:66:"https://en.wikipedia.org/wiki/1Malaysia_Development_Berhad_scandal";i:1;N;}i:2;i:3865;}i:55;a:3:{i:0;s:7:"p_close";i:1;a:0:{}i:2;i:3931;}i:56;a:3:{i:0;s:6:"p_open";i:1;a:0:{}i:2;i:3931;}i:57;a:3:{i:0;s:12:"externallink";i:1;a:2:{i:0;s:38:"https://graphics.wsj.com/1mdb-decoded/";i:1;N;}i:2;i:3933;}i:58;a:3:{i:0;s:7:"p_close";i:1;a:0:{}i:2;i:3971;}i:59;a:3:{i:0;s:13:"section_close";i:1;a:0:{}i:2;i:3973;}i:60;a:3:{i:0;s:12:"document_end";i:1;a:0:{}i:2;i:3973;}}

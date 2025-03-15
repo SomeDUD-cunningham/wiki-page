@@ -1,0 +1,54 @@
+/**
+ * Page Attribute Icons in the breadcrumb bar
+ */
+.page-attributes {
+    list-style: none;
+    float: right;
+    margin: -.45em 0 0; // FIXME sourrounding CSS should be fixed so negative margin is not needed
+    padding: 0;
+    display: flex;
+    gap: 0.5rem;
+
+    > li {
+        margin: 0;
+        padding: 0;
+        border: 1px solid @wikiicons-border;
+        border-radius: @ini_default_border_radius;
+        position: relative;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        transition: @transition background-color, @transition border-color, @transition color;
+
+        // override any plugin element styles
+        * {
+            margin: 0;
+            padding: 0;
+            line-height: normal;
+            display: block;
+        }
+
+        // number badge
+        .btn-usertools-num();
+
+        // icon
+        svg {
+            height: 1.5em;
+            width: 1.5em;
+
+            path {
+                fill: @ini_nav_menu_color;
+            }
+        }
+
+        // adjust colors on hover
+        &:hover {
+            background-color: @ini_nav_menu_hover_color;
+            border-color: @ini_nav_menu_hover_color;
+
+            svg path {
+                fill: @ini_nav_menu_hover_bg;
+            }
+        }
+    }
+}

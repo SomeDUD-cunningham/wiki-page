@@ -1,0 +1,7 @@
+base     graphy
+author   desbest
+email    afaninthehouse@gmail.com
+date     2021-01-13
+name     Graphy Template
+desc     Designed by Themegraphy, converted by desbest
+url      https://www.dokuwiki.org/template:graphy

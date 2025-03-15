@@ -1,0 +1,79 @@
+====== Deepwater Horizon oil spill ======
+
+<figure fig_label>
+{{:2048px-hse_workers_clean_up_port_fourchon_beach_2010-05-23.jpg?400 |}}
+<caption>HSE workers clean up Port Fourchon beach [ Source: [[https://commons.wikimedia.org/wiki/File:HSE_workers_clean_up_Port_Fourchon_beach_2010-05-23.JPG|PO3 Patrick Kelley/Wikipedia]] ]</caption>
+</figure>
+
+=====Overview=====
+
+The oil spill from Deepwater Horizon in 2010 was an ecological disaster that occurred of the coast of the Eastern United States, in the Gulf of Mexico in the Macondo Prospect. The environmental disaster is considered the largest oil spill in history in volume, ranging from 8 to 31 percent larger than the second largest - the Ixtoc I oil spill.
+
+===== Background =====
+
+In the ownership of Transocean and operated by the British Petroleum (BP) company, Deepwater Horizon was a then 10-year-old ultra-deepwater, dynamically positioned, semi-submersible offshore drilling rig. Deepwater Horizon was built in 2001 by Hyundai Heavy Industries in South Korea, later being commissioned by R&B Falcon (a later asset of Transocean), registered in Majuro, and leased to BP from 2001 until September 2013.
+
+The Macondo Prospect is an oil and gas prospect in the United States Exclusive Economic Zone of the Gulf of Mexico, off the coast of Louisiana. 
+
+=====Explosion and oil spill=====
+
+Expansion of the well's high-pressure methane gas into the marine riser and up into the drilling rig on April 20, 2010, caused it to ignite and explode, engulfing the platform. Despite a three-day search by the U.S. Coast Guard (USCG), eleven missing personnel were never located and are thought to have perished in the explosion. Seventeen of the ninety-four crew members who were rescued by helicopter or lifeboat received medical attention. On the morning of April 22, 2010, the Deepwater Horizon went down. 
+
+On the afternoon on April 22, 2010, the oil leak was uncovered when a large oil slick appeared at the site. The Flow Rate Technical Group (FRTG) estimated the initial flow rate was 62,000 barrels per day (bbl/d), while BP originally estimated the flow rate to be ranging from 1,000 to 5,000 bbl/d, arguing that the government overestimated the volume. The total volume of leaked oil was estimated to be 4.9 million barrels.
+
+The spill directly affected 70,000 sq mi (180,000 km2) of ocean, comparable to the size of states like Missouri and Oklahoma. Oil had washed up on coasts of Louisiana along with the coastlines of the states of Mississippi, Florida, and Alabama. 
+
+===== Impacts of the oil spill =====
+
+====Environmental pollution====
+
+The Gulf of Mexico is considered "one of the most productive ocean ecosystems in the world", hosting more than 8000 species. The oil contained 40% methane by weight, causing marine life to suffocate due to the reduction of oxygen breathed in. 
+
+40 times more the amount of polycyclic aromatic hydrocarbons (PAHs) was found in the vicinity compared to before the spill,  PAHs contain carcinogens and chemicals that pose various health risks to humans and marine life. According to a peer-reviewed study published in the Proceedings of the National Academy of Sciences in March 2014, which involved 17 scientists from the United States and Australia, tuna and amberjack exposed to the oil spill developed heart and other organ deformities that were likely to be fatal or at least shorten their lives. The findings, according to the experts, would probably apply to other large predator fish as well as "even to humans, whose developing hearts are in many ways similar."
+
+Corexit, an oil dispersant used in the containment and cleaning of the oil spill, was released underwater in large quantities. While normally meant to rise to the surface for naturally occurring microbes to digest, the oil emulsified and remained suspended in water or on the sea bed. Combined with PAHs, the dispersant was thought to have caused large numbers of mutation of fish and crustaceans. 
+
+====Health impacts====
+
+143 spill-exposure cases had been reported to the Louisiana Department of Health and Hospitals by June 2010; of which 108 of those were workers involved in the clean-up efforts, while 35 were reported by residents.
+
+BP requested for the National Institute of Occupational Safety and Health (NIOSH) to evaluate the May 26, 2010, hospitalizations of seven fishermen involved in VoO operations. After the hospitalizations of the seven, the Louisiana Department of Health and Hospitals received reports of 10 additional hospitalized response workers. However, none of the hospitalizations could attribute exposures to oil, hydrocarbons, or dispersant as the reason for their hospitalization, whereas factors like fatigue, heat and dehydration was a consistent finding.
+
+===== Responses =====
+
+==== Containment, oil dispersants and removal. ====
+
+The oil spill was addressed with the primary strategies of containment, oil dispersants and removal. Containment booms were deploying, stretching over 4,200,000 ft (1,300 km), with the purpose to corral the oil or to act as barriers to protect marshes, mangroves, and other ecologically sensitive areas. Moreover, the Louisiana barrier island plan was devised to protect Louisiana's coasts with the use of barrier islands. However, the plan was criticized for higher expenses and poor results, with many criticizing it as political with little scientific merit. The booms were also criticized for washing up on shore with the oil, and threatening wildlife.
+
+Large volumes of of Corexit oil dispersant were used and for application methods that were "purely experimental". Despite it being described as "the most effective and fast moving tool for minimizing shoreline impact", the approach cause several environmental concerns. The dispersants add to the toxicity of a spill, increasing the threat to sea turtles and bluefin tuna. Moreover,a NALCO manual obtained by GAP described Corexit 9527 is an "eye and skin irritant. Repeated or excessive exposure ... may cause injury to red blood cells (hemolysis), kidney or the liver".
+
+In removing oil from the water, the three approaches used were combustion, offshore filtration, and collection for later processing. 33,000,000 US gal (120,000 m3) of contaminated water, including 5,000,000 US gal (19,000 m3) of oil was retrieved, according to the USCG. According to BP, 826,800 barrels (131,450 m3) had been flared or recovered. Furthermore, 411 controlled in-situ fires remediated approximately 265,000 bbl from April to mid-July 2010. 
+
+==== Cleanup ====
+
+By 15 April 2014, the United States Coast Guard continued work with the use of physical barriers such as floating booms. Cleanup workers were instructed to and used skimmer boats to remove a majority of the oil, as well as having deployed the use of sorbents to absorb any remnants of oil. Moreover, dispersants were used to quicken the oil's degradation to prevent the oil from doing further damage to the marine habitats below the surface water. 
+
+==== Offshore drilling policies ====
+
+In an effort to identify the source of the catastrophe, President Barack Obama approved the investigation of 29 oil rigs in the Gulf and directed the federal government to halt the issuance of new offshore drilling leases on April 30, 2010.
+
+Afterwards, the US Department of the Interior imposed a six-month embargo on offshore drilling 500 feet (150 meters)  below the surface. The Back to activity Coalition was established by a coalition of impacted companies after the embargo halted activity on 33 rigs. In the Hornbeck Offshore Services LLC v. Salazar case, a U.S. federal judge on the U.S. District Court for the Eastern District of Louisiana, Martin Leach-Cross Feldman, lifted the moratorium finding it too broad and arbitrary. 
+
+The National Energy Board of Canada, which regulates offshore drilling in the Canadian Arctic and along the British Columbia Coast, issued a letter on 28 April 2010 to oil companies to inquire their argument against safety rules that needed same-season relief wells. 
+
+The U.S. Department of the Interior's Minerals Management Service was disbanded in October 2011 when it was proven that it had not adequately supervised the drilling sector. Subsequently, it was replaced by three new organizations: the Office of Natural Resources Revenue, the Bureau of Safety and Environmental Enforcement, and the Bureau of Ocean Energy Management. These departments were responsible for leasing, regulation, and revenue collection, respectively. 
+
+
+===== Sources =====
+
+https://en.wikipedia.org/wiki/Deepwater_Horizon_oil_spill
+
+https://archive.cdc.gov/#/details?q=Deepwate%20horizon&start=0&rows=10&url=https://www.cdc.gov/niosh/topics/oilspillresponse/gulfspillhhe.html
+
+https://en.wikipedia.org/wiki/Deepwater_Horizon
+
+https://en.wikipedia.org/wiki/Macondo_Prospect
+
+https://web.archive.org/web/20170707200303/http://response.restoration.noaa.gov/deepwaterhorizon
+
+https://www.cdc.gov/niosh/hhe/reports/pdfs/2010-0115-0129-3138.pdf

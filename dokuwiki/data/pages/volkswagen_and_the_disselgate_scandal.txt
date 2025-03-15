@@ -1,0 +1,57 @@
+====== Volkswagen emissions scandal (Dieselgate) ======
+
+
+<figure fig_label>
+{{:1024px-2011-07-18-wolfsburg-by-ralfr-05.jpg?400 |}}
+<caption>Rear view VW Golf TDI clean diesel at the 2010 Washington Auto Show [ Source: [[https://commons.wikimedia.org/wiki/File:VW_Golf_TDI_Clean_Diesel_WAS_2010_8982.JPG|Mariordo Mario Roberto Duran Ortiz/Wikipedia]] ]
+</caption>
+</figure>
+
+===== Overview =====
+
+The Volkswagen dieselgate scandal is about how Volkswagen, a German
+automobile manufacturer, cheated emission tests on its diesel vehicles whilst
+promoting them as eco-friendly with low emissions and high fuel efficiency. It was
+in 2015 when the United States Environmental Protection Agency (EPA) found out about Volkswagen’s scheme.
+
+===== Scheme =====
+
+Volkswagen’s scheme involved the installation of a “defeat device” or software in
+its diesel vehicles. This software enabled the car to detect when it was
+undergoing an emission test so that the car could adjust its emissions to comply
+with the federal emission levels. 
+
+However, when the car is under normal driving
+conditions, the car is able to switch to another mode where it can boost its
+performance but at the cost of higher emissions. The emissions were up to 40
+times higher than the legal limit. This led to Volkswagen being able to bypass
+emission tests and comply with emission limits whilst secretly emitting high
+amounts of nitrogen oxide (NOx). NOx not only contributes to air pollution but
+also severe health issues like lung cancer or other respiratory diseases.
+
+It was reported that Volkswagen had installed the software on more than a
+half-million diesel cars in the U.S. and around 10.5 million more worldwide
+
+===== Consequence =====
+
+
+After the discovery of the scandal in 2015, Volkswagen faced severe
+consequences, such as a plummet in stocks due to a loss in consumer trust,
+heavy fines, and legal settlements. 
+
+To compensate the customers who had
+bought the cars, the company allowed buy-backs where Volkswagen would buy
+the cars back. Those who didn't want to sell their cars back were given a
+compensation fee. As of 1 June 2020, the scandal had cost Volkswagen $33.3 billion in fines, settlements, and buyback costs.
+
+Then-CEO Martin Winterkorn and a few other executive members resigned and
+faced further charges. Volkswagen then had to find a way to gain back consumer
+trust under the new leadership of Matthias Mueller.
+
+===== Source =====
+
+
+https://en.wikipedia.org/wiki/Volkswagen_emissions_scandal#
+
+https://www.caranddriver.com/news/a15339250/everything-you-need-to-know-about-the-vw-diesel-emissions-scandal/
+

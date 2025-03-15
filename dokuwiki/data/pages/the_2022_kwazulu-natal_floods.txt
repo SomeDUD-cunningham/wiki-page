@@ -1,0 +1,51 @@
+====== The 2022 KwaZulu-Natal Floods ======
+
+<figure fig_label>
+{{:south_africa_floods.png?400 |}}
+<caption>Satellite-based estimate of rainfall totals recorded in Southern Africa between April 7-13, 2022.[ Source: [[https://commons.wikimedia.org/wiki/File:South_Africa_floods.png|NASA/Wikipedia]] ]</caption>
+</figure>
+
+===== Overview =====
+
+In April 2022, KwaZulu-Natal (KZN), a province in South Africa, experienced one of the most
+devastating natural disasters in the nation's history. Intense rainfall resulted in catastrophic
+floods and landslides, leading to the deaths of hundreds, the displacement of thousands, and
+extensive damage to infrastructure. 
+
+From the incident, scientific evidence indicated that climate change is
+increasing the frequency and severity of extreme weather incidents, such as heavy rainfall and
+flooding due to warmer air being able to hold more water vapor which can lead to more intense
+rainfall events, causing an increase in the frequency and severity of floods and droughts in
+areas like Southern Africa, including South Africa, which is becoming increasingly vulnerable to
+such climate related disasters. 
+
+Additionally, factors such as deforestation, urban expansion, and
+inadequate drainage systems in Durban and other urban areas may have worsened the floods'
+effects, underscoring the necessity for improved urban planning and climate adaptation
+strategies as said by President Cyril Ramaphosa: "This disaster is part of climate change.
+It is telling us that climate change is serious, it is here...we no longer can postpone
+what we need to do, and the measures we need to take to deal with climate change."
+
+===== Damages =====
+
+The heavy rainfall that hit KZN in mid-April 2022 on a Wednesday, caused significant flooding in the major port city of Durban as well as nearby areas. Reports indicated that more than 400 individuals lost their lives, with over 40,000 people forced to leave their residences. 
+
+The floods caused roads, bridges, and buildings to collapse while also
+disrupting essential services like water and electricity. The South African government declared a
+state of disaster, activating emergency response teams and military support to aid the affected
+areas. 
+
+However, the flooding hindered the rescue operations by the South African National
+Defence Force, though some helicopters and personnel managed to be deployed,according to
+General Rudzani Maphwanya. Meanwhile, efforts by the authorities were underway to restore
+electricity to the area. 
+
+===== Sources =====
+
+https://en.wikipedia.org/wiki/2022_KwaZulu-Natal_floods
+
+https://en.wikipedia.org/wiki/Climate_change_and_extreme_weather_events
+
+https://en.wikinews.org/wiki/South_African_floods_kill_at_least_300_people
+
+https://en.wikipedia.org/wiki/Effects_of_climate_change

@@ -1,0 +1,32 @@
+a:52:{i:0;a:3:{i:0;s:14:"document_start";i:1;a:0:{}i:2;i:0;}i:1;a:3:{i:0;s:6:"header";i:1;a:3:{i:0;s:22:"Arctic sea ice decline";i:1;i:1;i:2;i:1;}i:2;i:1;}i:2;a:3:{i:0;s:12:"section_open";i:1;a:1:{i:0;i:1;}i:2;i:1;}i:3;a:3:{i:0;s:6:"plugin";i:1;a:4:{i:0;s:15:"caption_caption";i:1;a:2:{i:0;i:1;i:1;s:16:"figure fig_label";}i:2;i:1;i:3;s:18:"<figure fig_label>";}i:2;i:39;}i:4;a:3:{i:0;s:6:"plugin";i:1;a:4:{i:0;s:15:"caption_caption";i:1;a:2:{i:0;i:3;i:1;s:1:"
+";}i:2;i:3;i:3;s:1:"
+";}i:2;i:57;}i:5;a:3:{i:0;s:13:"internalmedia";i:1;a:7:{i:0;s:49:":pexels-jean-christophe-andre-1336424-2574983.jpg";i:1;s:0:"";i:2;N;i:3;s:3:"400";i:4;N;i:5;s:5:"cache";i:6;s:7:"details";}i:2;i:58;}i:6;a:3:{i:0;s:6:"plugin";i:1;a:4:{i:0;s:15:"caption_caption";i:1;a:2:{i:0;i:3;i:1;s:1:"
+";}i:2;i:3;i:3;s:1:"
+";}i:2;i:116;}i:7;a:3:{i:0;s:6:"plugin";i:1;a:4:{i:0;s:15:"caption_caption";i:1;a:2:{i:0;i:2;i:1;s:9:"<caption>";}i:2;i:2;i:3;s:9:"<caption>";}i:2;i:117;}i:8;a:3:{i:0;s:6:"plugin";i:1;a:4:{i:0;s:15:"caption_caption";i:1;a:2:{i:0;i:3;i:1;s:78:"A picture of an icy mountain and glaciers in Tiilerilaaq, Greenland [ Source: ";}i:2;i:3;i:3;s:78:"A picture of an icy mountain and glaciers in Tiilerilaaq, Greenland [ Source: ";}i:2;i:126;}i:9;a:3:{i:0;s:12:"externallink";i:1;a:2:{i:0;s:68:"https://www.pexels.com/photo/icy-mountain-and-ocean-scenery-2574983/";i:1;s:29:"Pexels/Jean-Christophe André";}i:2;i:204;}i:10;a:3:{i:0;s:6:"plugin";i:1;a:4:{i:0;s:15:"caption_caption";i:1;a:2:{i:0;i:3;i:1;s:2:" ]";}i:2;i:3;i:3;s:2:" ]";}i:2;i:306;}i:11;a:3:{i:0;s:6:"plugin";i:1;a:4:{i:0;s:15:"caption_caption";i:1;a:2:{i:0;i:2;i:1;s:10:"</caption>";}i:2;i:2;i:3;s:10:"</caption>";}i:2;i:308;}i:12;a:3:{i:0;s:6:"plugin";i:1;a:4:{i:0;s:15:"caption_caption";i:1;a:2:{i:0;i:3;i:1;s:1:"
+";}i:2;i:3;i:3;s:1:"
+";}i:2;i:318;}i:13;a:3:{i:0;s:6:"plugin";i:1;a:4:{i:0;s:15:"caption_caption";i:1;a:2:{i:0;i:4;i:1;s:7:"/figure";}i:2;i:4;i:3;s:9:"</figure>";}i:2;i:319;}i:14;a:3:{i:0;s:13:"section_close";i:1;a:0:{}i:2;i:330;}i:15;a:3:{i:0;s:6:"header";i:1;a:3:{i:0;s:8:"Overview";i:1;i:3;i:2;i:330;}i:2;i:330;}i:16;a:3:{i:0;s:12:"section_open";i:1;a:1:{i:0;i:3;}i:2;i:330;}i:17;a:3:{i:0;s:6:"p_open";i:1;a:0:{}i:2;i:330;}i:18;a:3:{i:0;s:5:"cdata";i:1;a:1:{i:0;s:317:"Arctic ice is melting at an alarming rate due to rising global temperatures,
+primarily caused by human-induced climate change. The decrease in sea ice is
+causing the Earth's ability to reflect sunlight (albedo) to decrease, leading to
+more solar energy being absorbed by the ocean, hence accelerating global
+warming. ";}i:2;i:348;}i:19;a:3:{i:0;s:7:"p_close";i:1;a:0:{}i:2;i:665;}i:20;a:3:{i:0;s:6:"p_open";i:1;a:0:{}i:2;i:665;}i:21;a:3:{i:0;s:5:"cdata";i:1;a:1:{i:0;s:123:"Scientists predict that the Arctic could experience ice-free summers as
+early as 2040, a situation unseen in human history.";}i:2;i:667;}i:22;a:3:{i:0;s:7:"p_close";i:1;a:0:{}i:2;i:790;}i:23;a:3:{i:0;s:13:"section_close";i:1;a:0:{}i:2;i:792;}i:24;a:3:{i:0;s:6:"header";i:1;a:3:{i:0;s:45:"Impact on Global Climate and Weather Patterns";i:1;i:3;i:2;i:792;}i:2;i:792;}i:25;a:3:{i:0;s:12:"section_open";i:1;a:1:{i:0;i:3;}i:2;i:792;}i:26;a:3:{i:0;s:6:"p_open";i:1;a:0:{}i:2;i:792;}i:27;a:3:{i:0;s:5:"cdata";i:1;a:1:{i:0;s:359:"Rising Arctic temperatures contribute to large amounts of freshwater from melting
+ice entering the North Atlantic. This influx can disrupt global ocean currents,
+potentially triggering severe climate shifts worldwide. Changes in storm behavior
+are also expected as with less sea ice acting as a buffer, extreme storms can
+churn open waters more aggressively. ";}i:2;i:849;}i:28;a:3:{i:0;s:7:"p_close";i:1;a:0:{}i:2;i:1208;}i:29;a:3:{i:0;s:6:"p_open";i:1;a:0:{}i:2;i:1208;}i:30;a:3:{i:0;s:5:"cdata";i:1;a:1:{i:0;s:224:"These storms lead to higher storm surges,
+increasing coastal erosion and saltwater damage to vegetation.
+Effects on Wildlife and Human Populations
+Walruses and polar bears rely on sea ice for movement, hunting, and breeding.";}i:2;i:1210;}i:31;a:3:{i:0;s:7:"p_close";i:1;a:0:{}i:2;i:1434;}i:32;a:3:{i:0;s:6:"p_open";i:1;a:0:{}i:2;i:1434;}i:33;a:3:{i:0;s:5:"cdata";i:1;a:1:{i:0;s:721:"However, as the ice continues to thin and shrink, these animals struggle with
+limited access to food, higher energy demands, and declining birth rates.
+Likewise, seals depend on sea ice for mating, giving birth, and resting, making
+them vulnerable to the ongoing loss of their habitat. The rapid loss of Arctic ice is
+forcing polar bears to venture beyond their traditional hunting grounds in search
+of food leading to an increase in human-wildlife interactions. An example
+occurred between December 2018 and February 2019 when a large number of
+polar bears entered towns and buildings in the Novaya Zemlya archipelago. The
+situation escalated to such an extent that local authorities had to declare a state
+of emergency.";}i:2;i:1437;}i:34;a:3:{i:0;s:7:"p_close";i:1;a:0:{}i:2;i:2158;}i:35;a:3:{i:0;s:13:"section_close";i:1;a:0:{}i:2;i:2160;}i:36;a:3:{i:0;s:6:"header";i:1;a:3:{i:0;s:30:"The Urgency of Arctic Ice Loss";i:1;i:3;i:2;i:2160;}i:2;i:2160;}i:37;a:3:{i:0;s:12:"section_open";i:1;a:1:{i:0;i:3;}i:2;i:2160;}i:38;a:3:{i:0;s:6:"p_open";i:1;a:0:{}i:2;i:2160;}i:39;a:3:{i:0;s:5:"cdata";i:1;a:1:{i:0;s:414:"The ongoing transformation of the Arctic is a clear warning sign of climate
+change’s accelerating effects. If the current trends continue, the consequences
+will extend far beyond the polar regions, influencing global weather patterns, sea
+levels, and ecosystems. Addressing this crisis requires urgent action to reduce
+greenhouse gas emissions and implement strategies to mitigate the impacts of Arctic ice loss.";}i:2;i:2202;}i:40;a:3:{i:0;s:7:"p_close";i:1;a:0:{}i:2;i:2616;}i:41;a:3:{i:0;s:13:"section_close";i:1;a:0:{}i:2;i:2618;}i:42;a:3:{i:0;s:6:"header";i:1;a:3:{i:0;s:7:"Sources";i:1;i:3;i:2;i:2618;}i:2;i:2618;}i:43;a:3:{i:0;s:12:"section_open";i:1;a:1:{i:0;i:3;}i:2;i:2618;}i:44;a:3:{i:0;s:6:"p_open";i:1;a:0:{}i:2;i:2618;}i:45;a:3:{i:0;s:12:"externallink";i:1;a:2:{i:0;s:88:"https://en.wikipedia.org/wiki/Arctic_Ocean?utm_source=chatgpt.com#Environmental_concerns";i:1;N;}i:2;i:2635;}i:46;a:3:{i:0;s:7:"p_close";i:1;a:0:{}i:2;i:2723;}i:47;a:3:{i:0;s:6:"p_open";i:1;a:0:{}i:2;i:2723;}i:48;a:3:{i:0;s:12:"externallink";i:1;a:2:{i:0;s:52:"https://blog.cwf-fcf.org/index.php/en/vanishing-ice/";i:1;N;}i:2;i:2725;}i:49;a:3:{i:0;s:7:"p_close";i:1;a:0:{}i:2;i:2777;}i:50;a:3:{i:0;s:13:"section_close";i:1;a:0:{}i:2;i:2779;}i:51;a:3:{i:0;s:12:"document_end";i:1;a:0:{}i:2;i:2779;}}

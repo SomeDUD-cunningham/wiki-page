@@ -1,0 +1,24 @@
+====== January 2025 warmest on record ======
+
+<figure fig_label>
+{{ :sigeventsmapjan2025global.png?400 |}}
+<caption>Annotated map of the world plotted with the most significant climate events of January 2025 Image credit: [[https://www.noaa.gov/news/january-temperature-marks-new-global-milestone|NOAA/NCEI]]</caption>
+</figure>
+
+
+
+According to data from the NOAA’s National Centers for Environmental Information (NCEI), January 2025 is the hottest on record within the 176-year global climate record, despite the emerging La Nina cooling global temperatures.
+
+January 2025 was 1.75°C above the pre-industrial level, marking the 18th month in the last nineteen months for which the global-average surface air temperature was more than 1.5°C above the pre-industrial levels, according to the European Union climate agency Copernicus.
+
+Notably, Arctic sea ice coverage was second lowest on record. Antarctic ice coverage was slightly below the world average by about 130 000 square miles(or about 337 000 square kilometers), making it the seventh smallest in the 47 year record. Arctic ice coverage was second lowest on record, having a below average of about 330 000 square miles(or about 855 000 square kilometers)
+
+
+
+== Sources: ==
+
+https://www.noaa.gov/news/january-temperature-marks-new-global-milestone
+
+https://groundreport.in/extreme-weather/january-2025-warmest-on-record-globally-8695135
+
+https://climate.copernicus.eu/copernicus-january-2025-was-warmest-record-globally-despite-emerging-la-nina

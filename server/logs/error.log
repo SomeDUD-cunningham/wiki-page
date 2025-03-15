@@ -1,0 +1,434 @@
+[Sat Mar 01 13:19:54.356227 2025] [mpm_winnt:notice] [pid 24544:tid 444] AH00455: Apache/2.4.58 (Win64) PHP/8.2.13 configured -- resuming normal operations
+[Sat Mar 01 13:19:54.356227 2025] [mpm_winnt:notice] [pid 24544:tid 444] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Sat Mar 01 13:19:54.356227 2025] [core:notice] [pid 24544:tid 444] AH00094: Command line: 'mapache.exe -d D:/Projects/DokuWikiStick/server'
+[Sat Mar 01 13:19:54.358224 2025] [mpm_winnt:notice] [pid 24544:tid 444] AH00418: Parent: Created child process 22220
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 22220:tid 472] AH00354: Child: Starting 24 worker threads.
+[Sat Mar 01 13:19:56.218395 2025] [authz_core:error] [pid 22220:tid 856] [client 127.0.0.1:52769] AH01630: client denied by server configuration: D:/Projects/DokuWikiStick/dokuwiki/data/dont-panic-if-you-see-this-in-your-logs-it-means-your-directory-permissions-are-correct.png, referer: http://localhost:8800/install.php
+[Sat Mar 01 13:22:45.101304 2025] [authz_core:error] [pid 22220:tid 868] [client 127.0.0.1:52786] AH01630: client denied by server configuration: D:/Projects/DokuWikiStick/dokuwiki/data/dont-panic-if-you-see-this-in-your-logs-it-means-your-directory-permissions-are-correct.png, referer: http://localhost:8800/install.php
+[Sat Mar 01 13:27:03.057688 2025] [authz_core:error] [pid 22220:tid 848] [client 127.0.0.1:52863] AH01630: client denied by server configuration: D:/Projects/DokuWikiStick/dokuwiki/data/dont-panic-if-you-see-this-in-your-logs-it-means-your-directory-permissions-are-correct.png, referer: http://localhost:8800/doku.php?id=wiki:welcome&do=admin
+[Sat Mar 01 13:39:02.796616 2025] [mpm_winnt:notice] [pid 24544:tid 444] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sat Mar 01 13:39:04.810572 2025] [mpm_winnt:notice] [pid 22220:tid 472] AH00364: Child: All worker threads have exited.
+[Sat Mar 01 13:39:04.860816 2025] [mpm_winnt:notice] [pid 24544:tid 444] AH00430: Parent: Child process 22220 exited successfully.
+[Sat Mar 01 13:39:51.662597 2025] [mpm_winnt:notice] [pid 16348:tid 444] AH00455: Apache/2.4.58 (Win64) PHP/8.2.13 configured -- resuming normal operations
+[Sat Mar 01 13:39:51.662597 2025] [mpm_winnt:notice] [pid 16348:tid 444] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Sat Mar 01 13:39:51.662597 2025] [core:notice] [pid 16348:tid 444] AH00094: Command line: 'mapache.exe -d D:/Projects/DokuWikiStick/server'
+[Sat Mar 01 13:39:51.665595 2025] [mpm_winnt:notice] [pid 16348:tid 444] AH00418: Parent: Created child process 18644
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 18644:tid 440] AH00354: Child: Starting 24 worker threads.
+[Sat Mar 01 13:45:14.576886 2025] [authz_core:error] [pid 18644:tid 864] [client 127.0.0.1:54008] AH01630: client denied by server configuration: D:/Projects/DokuWikiStick/dokuwiki/data/dont-panic-if-you-see-this-in-your-logs-it-means-your-directory-permissions-are-correct.png, referer: http://localhost:8800/doku.php?id=start&do=admin
+[Sat Mar 01 13:57:57.495805 2025] [mpm_winnt:notice] [pid 16348:tid 444] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sat Mar 01 13:57:59.499767 2025] [mpm_winnt:notice] [pid 18644:tid 440] AH00364: Child: All worker threads have exited.
+[Sat Mar 01 13:57:59.548061 2025] [mpm_winnt:notice] [pid 16348:tid 444] AH00430: Parent: Child process 18644 exited successfully.
+[Sat Mar 01 18:04:36.402981 2025] [mpm_winnt:notice] [pid 23524:tid 492] AH00455: Apache/2.4.58 (Win64) PHP/8.2.13 configured -- resuming normal operations
+[Sat Mar 01 18:04:36.402981 2025] [mpm_winnt:notice] [pid 23524:tid 492] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Sat Mar 01 18:04:36.402981 2025] [core:notice] [pid 23524:tid 492] AH00094: Command line: 'mapache.exe -d D:/Projects/DokuWikiStick/server'
+[Sat Mar 01 18:04:36.405956 2025] [mpm_winnt:notice] [pid 23524:tid 492] AH00418: Parent: Created child process 7736
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 7736:tid 440] AH00354: Child: Starting 24 worker threads.
+[Sat Mar 01 18:07:18.635189 2025] [mpm_winnt:notice] [pid 23524:tid 492] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sat Mar 01 18:07:20.646915 2025] [mpm_winnt:notice] [pid 7736:tid 440] AH00364: Child: All worker threads have exited.
+[Sat Mar 01 18:07:20.700918 2025] [mpm_winnt:notice] [pid 23524:tid 492] AH00430: Parent: Child process 7736 exited successfully.
+[Sat Mar 01 18:07:31.056116 2025] [mpm_winnt:notice] [pid 9492:tid 444] AH00455: Apache/2.4.58 (Win64) PHP/8.2.13 configured -- resuming normal operations
+[Sat Mar 01 18:07:31.056116 2025] [mpm_winnt:notice] [pid 9492:tid 444] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Sat Mar 01 18:07:31.056116 2025] [core:notice] [pid 9492:tid 444] AH00094: Command line: 'mapache.exe -d D:/Projects/DokuWikiStick/server'
+[Sat Mar 01 18:07:31.059116 2025] [mpm_winnt:notice] [pid 9492:tid 444] AH00418: Parent: Created child process 12896
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 12896:tid 476] AH00354: Child: Starting 24 worker threads.
+[Sat Mar 01 18:12:08.882362 2025] [mpm_winnt:notice] [pid 9492:tid 444] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sat Mar 01 18:12:10.896669 2025] [mpm_winnt:notice] [pid 12896:tid 476] AH00364: Child: All worker threads have exited.
+[Sat Mar 01 18:12:10.945788 2025] [mpm_winnt:notice] [pid 9492:tid 444] AH00430: Parent: Child process 12896 exited successfully.
+[Sat Mar 01 18:12:11.637783 2025] [mpm_winnt:notice] [pid 20192:tid 468] AH00455: Apache/2.4.58 (Win64) PHP/8.2.13 configured -- resuming normal operations
+[Sat Mar 01 18:12:11.637783 2025] [mpm_winnt:notice] [pid 20192:tid 468] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Sat Mar 01 18:12:11.637783 2025] [core:notice] [pid 20192:tid 468] AH00094: Command line: 'mapache.exe -d D:/Projects/DokuWikiStick/server'
+[Sat Mar 01 18:12:11.640789 2025] [mpm_winnt:notice] [pid 20192:tid 468] AH00418: Parent: Created child process 16408
+[Sat Mar 01 18:12:12.085535 2025] [mpm_winnt:notice] [pid 16408:tid 468] AH00354: Child: Starting 24 worker threads.
+[Sat Mar 01 18:14:51.799498 2025] [authz_core:error] [pid 16408:tid 888] [client 127.0.0.1:55885] AH01630: client denied by server configuration: D:/Projects/DokuWikiStick/dokuwiki/data/dont-panic-if-you-see-this-in-your-logs-it-means-your-directory-permissions-are-correct.png, referer: http://localhost:8800/doku.php?id=world&do=admin
+[Sat Mar 01 21:31:28.736726 2025] [core:warn] [pid 8156:tid 464] AH00098: pid file D:/Projects/DokuWikiStick/server/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sat Mar 01 21:31:29.369280 2025] [mpm_winnt:notice] [pid 8156:tid 464] AH00455: Apache/2.4.58 (Win64) PHP/8.2.13 configured -- resuming normal operations
+[Sat Mar 01 21:31:29.369280 2025] [mpm_winnt:notice] [pid 8156:tid 464] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Sat Mar 01 21:31:29.369280 2025] [core:notice] [pid 8156:tid 464] AH00094: Command line: 'mapache.exe -d D:/Projects/DokuWikiStick/server'
+[Sat Mar 01 21:31:29.372391 2025] [mpm_winnt:notice] [pid 8156:tid 464] AH00418: Parent: Created child process 4276
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 4276:tid 456] AH00354: Child: Starting 24 worker threads.
+[Sat Mar 01 21:40:42.290254 2025] [authz_core:error] [pid 4276:tid 864] [client 127.0.0.1:51204] AH01630: client denied by server configuration: D:/Projects/DokuWikiStick/dokuwiki/data/dont-panic-if-you-see-this-in-your-logs-it-means-your-directory-permissions-are-correct.png, referer: http://localhost:8800/doku.php?id=main_page&do=admin
+[Sat Mar 01 22:50:46.360623 2025] [php:warn] [pid 4276:tid 856] [client 127.0.0.1:52064] PHP Warning:  Undefined variable $localestore in D:\\Projects\\DokuWikiStick\\dokuwiki\\lib\\plugins\\date\\syntax.php on line 236, referer: http://localhost:8800/doku.php?id=ukrainian_power_plant_hit_by_russian_drones&do=admin&page=extension&tab=plugins
+[Sat Mar 01 22:50:57.858594 2025] [php:warn] [pid 4276:tid 856] [client 127.0.0.1:52072] PHP Warning:  Undefined variable $localestore in D:\\Projects\\DokuWikiStick\\dokuwiki\\lib\\plugins\\date\\syntax.php on line 236, referer: http://localhost:8800/doku.php?id=ukrainian_power_plant_hit_by_russian_drones&do=edit
+[Sat Mar 01 22:52:01.447772 2025] [php:warn] [pid 4276:tid 856] [client 127.0.0.1:52081] PHP Warning:  Undefined variable $localestore in D:\\Projects\\DokuWikiStick\\dokuwiki\\lib\\plugins\\date\\syntax.php on line 236, referer: http://localhost:8800/doku.php?id=ukrainian_power_plant_hit_by_russian_drones&do=edit
+[Sat Mar 01 22:52:17.623822 2025] [php:warn] [pid 4276:tid 856] [client 127.0.0.1:52087] PHP Warning:  Undefined variable $localestore in D:\\Projects\\DokuWikiStick\\dokuwiki\\lib\\plugins\\date\\syntax.php on line 236, referer: http://localhost:8800/doku.php?id=ukrainian_power_plant_hit_by_russian_drones&do=edit
+[Sat Mar 01 23:00:31.167557 2025] [php:error] [pid 4276:tid 848] [client 127.0.0.1:52282] PHP Fatal error:  Array and string offset access syntax with curly braces is no longer supported in D:\\Projects\\DokuWikiStick\\dokuwiki\\lib\\plugins\\fontsize\\syntax.php on line 42, referer: http://localhost:8800/doku.php?id=ukrainian_power_plant_hit_by_russian_drones&do=admin&page=extension&tab=search&q=font
+[Sat Mar 01 23:00:36.575085 2025] [php:error] [pid 4276:tid 848] [client 127.0.0.1:52282] PHP Fatal error:  Array and string offset access syntax with curly braces is no longer supported in D:\\Projects\\DokuWikiStick\\dokuwiki\\lib\\plugins\\fontsize\\syntax.php on line 42, referer: http://localhost:8800/doku.php?id=ukrainian_power_plant_hit_by_russian_drones&do=admin&page=extension&tab=install
+[Sat Mar 01 23:00:37.658197 2025] [php:error] [pid 4276:tid 848] [client 127.0.0.1:52282] PHP Fatal error:  Array and string offset access syntax with curly braces is no longer supported in D:\\Projects\\DokuWikiStick\\dokuwiki\\lib\\plugins\\fontsize\\syntax.php on line 42, referer: http://localhost:8800/doku.php?id=ukrainian_power_plant_hit_by_russian_drones&do=admin&page=extension
+[Sat Mar 01 23:00:38.430330 2025] [php:error] [pid 4276:tid 848] [client 127.0.0.1:52282] PHP Fatal error:  Array and string offset access syntax with curly braces is no longer supported in D:\\Projects\\DokuWikiStick\\dokuwiki\\lib\\plugins\\fontsize\\syntax.php on line 42, referer: http://localhost:8800/doku.php?id=ukrainian_power_plant_hit_by_russian_drones&do=admin
+[Sat Mar 01 23:00:38.929343 2025] [php:error] [pid 4276:tid 848] [client 127.0.0.1:52282] PHP Fatal error:  Array and string offset access syntax with curly braces is no longer supported in D:\\Projects\\DokuWikiStick\\dokuwiki\\lib\\plugins\\fontsize\\syntax.php on line 42, referer: http://localhost:8800/doku.php?id=ukrainian_power_plant_hit_by_russian_drones&do=admin
+[Sat Mar 01 23:00:45.967819 2025] [mpm_winnt:notice] [pid 8156:tid 464] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sat Mar 01 23:00:47.990110 2025] [mpm_winnt:notice] [pid 4276:tid 456] AH00364: Child: All worker threads have exited.
+[Sat Mar 01 23:00:48.042830 2025] [mpm_winnt:notice] [pid 8156:tid 464] AH00430: Parent: Child process 4276 exited successfully.
+[Sat Mar 01 23:00:53.923890 2025] [mpm_winnt:notice] [pid 14024:tid 444] AH00455: Apache/2.4.58 (Win64) PHP/8.2.13 configured -- resuming normal operations
+[Sat Mar 01 23:00:53.923890 2025] [mpm_winnt:notice] [pid 14024:tid 444] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Sat Mar 01 23:00:53.923890 2025] [core:notice] [pid 14024:tid 444] AH00094: Command line: 'mapache.exe -d D:/Projects/DokuWikiStick/server'
+[Sat Mar 01 23:00:53.926887 2025] [mpm_winnt:notice] [pid 14024:tid 444] AH00418: Parent: Created child process 3136
+[Sat Mar 01 23:00:54.395335 2025] [mpm_winnt:notice] [pid 3136:tid 440] AH00354: Child: Starting 24 worker threads.
+[Sat Mar 01 23:00:54.949959 2025] [php:error] [pid 3136:tid 504] [client 127.0.0.1:52309] PHP Fatal error:  Array and string offset access syntax with curly braces is no longer supported in D:\\Projects\\DokuWikiStick\\dokuwiki\\lib\\plugins\\fontsize\\syntax.php on line 42
+[Sat Mar 01 23:01:02.155410 2025] [php:error] [pid 3136:tid 504] [client 127.0.0.1:52309] PHP Fatal error:  Array and string offset access syntax with curly braces is no longer supported in D:\\Projects\\DokuWikiStick\\dokuwiki\\lib\\plugins\\fontsize\\syntax.php on line 42
+[Sat Mar 01 23:01:02.797031 2025] [php:error] [pid 3136:tid 504] [client 127.0.0.1:52309] PHP Fatal error:  Array and string offset access syntax with curly braces is no longer supported in D:\\Projects\\DokuWikiStick\\dokuwiki\\lib\\plugins\\fontsize\\syntax.php on line 42
+[Sat Mar 01 23:01:06.190981 2025] [php:error] [pid 3136:tid 504] [client 127.0.0.1:52309] PHP Fatal error:  Array and string offset access syntax with curly braces is no longer supported in D:\\Projects\\DokuWikiStick\\dokuwiki\\lib\\plugins\\fontsize\\syntax.php on line 42
+[Sat Mar 01 23:02:06.176019 2025] [php:error] [pid 3136:tid 504] [client 127.0.0.1:52320] PHP Fatal error:  Array and string offset access syntax with curly braces is no longer supported in D:\\Projects\\DokuWikiStick\\dokuwiki\\lib\\plugins\\fontsize\\syntax.php on line 42
+[Sat Mar 01 23:29:22.593750 2025] [authz_core:error] [pid 3136:tid 856] [client 127.0.0.1:52713] AH01630: client denied by server configuration: D:/Projects/DokuWikiStick/dokuwiki/data/dont-panic-if-you-see-this-in-your-logs-it-means-your-directory-permissions-are-correct.png, referer: http://localhost:8800/doku.php?id=the_corrupt_practices_of_mossack_fonesca&do=admin
+[Sun Mar 02 16:33:52.778724 2025] [core:warn] [pid 4276:tid 448] AH00098: pid file D:/Projects/DokuWikiStick/server/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun Mar 02 16:33:53.506280 2025] [mpm_winnt:notice] [pid 4276:tid 448] AH00455: Apache/2.4.58 (Win64) PHP/8.2.13 configured -- resuming normal operations
+[Sun Mar 02 16:33:53.506280 2025] [mpm_winnt:notice] [pid 4276:tid 448] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Sun Mar 02 16:33:53.506280 2025] [core:notice] [pid 4276:tid 448] AH00094: Command line: 'mapache.exe -d D:/Projects/DokuWikiStick/server'
+[Sun Mar 02 16:33:53.509321 2025] [mpm_winnt:notice] [pid 4276:tid 448] AH00418: Parent: Created child process 8436
+[Sun Mar 02 16:33:53.934037 2025] [mpm_winnt:notice] [pid 8436:tid 440] AH00354: Child: Starting 24 worker threads.
+[Sun Mar 02 17:24:06.348557 2025] [authz_core:error] [pid 8436:tid 876] [client 127.0.0.1:53553] AH01630: client denied by server configuration: D:/Projects/DokuWikiStick/dokuwiki/data/dont-panic-if-you-see-this-in-your-logs-it-means-your-directory-permissions-are-correct.png, referer: http://localhost:8800/doku.php?id=sidebar&do=admin
+[Sun Mar 02 18:44:27.942279 2025] [core:warn] [pid 19868:tid 444] AH00098: pid file D:/Projects/DokuWikiStick/server/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun Mar 02 18:44:28.649477 2025] [mpm_winnt:notice] [pid 19868:tid 444] AH00455: Apache/2.4.58 (Win64) PHP/8.2.13 configured -- resuming normal operations
+[Sun Mar 02 18:44:28.649477 2025] [mpm_winnt:notice] [pid 19868:tid 444] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Sun Mar 02 18:44:28.649477 2025] [core:notice] [pid 19868:tid 444] AH00094: Command line: 'mapache.exe -d D:/Projects/DokuWikiStick/server'
+[Sun Mar 02 18:44:28.649477 2025] [mpm_winnt:notice] [pid 19868:tid 444] AH00418: Parent: Created child process 21400
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 21400:tid 476] AH00354: Child: Starting 24 worker threads.
+[Sun Mar 02 18:44:47.808572 2025] [authz_core:error] [pid 21400:tid 900] [client 127.0.0.1:49861] AH01630: client denied by server configuration: D:/Projects/DokuWikiStick/dokuwiki/data/dont-panic-if-you-see-this-in-your-logs-it-means-your-directory-permissions-are-correct.png, referer: http://localhost:8800/doku.php?id=main_page&do=admin
+[Sun Mar 02 21:44:41.583697 2025] [mpm_winnt:notice] [pid 19868:tid 444] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sun Mar 02 21:44:43.602821 2025] [mpm_winnt:notice] [pid 21400:tid 476] AH00364: Child: All worker threads have exited.
+[Sun Mar 02 21:44:43.651353 2025] [mpm_winnt:notice] [pid 19868:tid 444] AH00430: Parent: Child process 21400 exited successfully.
+[Mon Mar 03 18:50:22.594744 2025] [mpm_winnt:notice] [pid 20964:tid 444] AH00455: Apache/2.4.58 (Win64) PHP/8.2.13 configured -- resuming normal operations
+[Mon Mar 03 18:50:22.595743 2025] [mpm_winnt:notice] [pid 20964:tid 444] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Mon Mar 03 18:50:22.595743 2025] [core:notice] [pid 20964:tid 444] AH00094: Command line: 'mapache.exe -d D:/Projects/DokuWikiStick/server'
+[Mon Mar 03 18:50:22.597743 2025] [mpm_winnt:notice] [pid 20964:tid 444] AH00418: Parent: Created child process 17836
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 17836:tid 480] AH00354: Child: Starting 24 worker threads.
+[Mon Mar 03 21:25:49.093982 2025] [authz_core:error] [pid 17836:tid 864] [client 127.0.0.1:51561] AH01630: client denied by server configuration: D:/Projects/DokuWikiStick/dokuwiki/data/dont-panic-if-you-see-this-in-your-logs-it-means-your-directory-permissions-are-correct.png, referer: http://localhost:8800/doku.php?id=the_willow_project_-_the_good_the_bad_and_the_oil&do=admin
+[Mon Mar 03 21:26:43.172974 2025] [mpm_winnt:notice] [pid 20964:tid 444] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Mar 03 21:26:45.204309 2025] [mpm_winnt:notice] [pid 17836:tid 480] AH00364: Child: All worker threads have exited.
+[Mon Mar 03 21:26:45.279852 2025] [mpm_winnt:notice] [pid 20964:tid 444] AH00430: Parent: Child process 17836 exited successfully.
+[Mon Mar 03 21:27:08.163552 2025] [mpm_winnt:notice] [pid 15704:tid 444] AH00455: Apache/2.4.58 (Win64) PHP/8.2.13 configured -- resuming normal operations
+[Mon Mar 03 21:27:08.163552 2025] [mpm_winnt:notice] [pid 15704:tid 444] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Mon Mar 03 21:27:08.163552 2025] [core:notice] [pid 15704:tid 444] AH00094: Command line: 'mapache.exe -d D:/Projects/DokuWikiStick/server'
+[Mon Mar 03 21:27:08.165550 2025] [mpm_winnt:notice] [pid 15704:tid 444] AH00418: Parent: Created child process 2072
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 2072:tid 472] AH00354: Child: Starting 24 worker threads.
+[Mon Mar 03 21:28:43.973068 2025] [authz_core:error] [pid 2072:tid 888] [client 127.0.0.1:51709] AH01630: client denied by server configuration: D:/Projects/DokuWikiStick/dokuwiki/data/dont-panic-if-you-see-this-in-your-logs-it-means-your-directory-permissions-are-correct.png, referer: http://localhost:8800/doku.php?id=the_willow_project_-_the_good_the_bad_and_the_oil&do=admin
+[Mon Mar 03 21:52:00.983019 2025] [mpm_winnt:notice] [pid 15704:tid 444] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Mar 03 21:52:02.992949 2025] [mpm_winnt:notice] [pid 2072:tid 472] AH00364: Child: All worker threads have exited.
+[Mon Mar 03 21:52:03.045034 2025] [mpm_winnt:notice] [pid 15704:tid 444] AH00430: Parent: Child process 2072 exited successfully.
+[Mon Mar 03 22:05:58.980313 2025] [mpm_winnt:notice] [pid 4452:tid 444] AH00455: Apache/2.4.58 (Win64) PHP/8.2.13 configured -- resuming normal operations
+[Mon Mar 03 22:05:58.980313 2025] [mpm_winnt:notice] [pid 4452:tid 444] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Mon Mar 03 22:05:58.980313 2025] [core:notice] [pid 4452:tid 444] AH00094: Command line: 'mapache.exe -d D:/Projects/DokuWikiStick/server'
+[Mon Mar 03 22:05:58.983312 2025] [mpm_winnt:notice] [pid 4452:tid 444] AH00418: Parent: Created child process 4212
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 4212:tid 460] AH00354: Child: Starting 24 worker threads.
+[Tue Mar 04 00:07:54.967106 2025] [mpm_winnt:notice] [pid 4452:tid 444] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue Mar 04 00:07:56.975269 2025] [mpm_winnt:notice] [pid 4212:tid 460] AH00364: Child: All worker threads have exited.
+[Tue Mar 04 13:35:07.689988 2025] [core:warn] [pid 21644:tid 444] AH00098: pid file D:/Projects/DokuWikiStick/server/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Mar 04 13:35:08.914538 2025] [mpm_winnt:notice] [pid 21644:tid 444] AH00455: Apache/2.4.58 (Win64) PHP/8.2.13 configured -- resuming normal operations
+[Tue Mar 04 13:35:08.914538 2025] [mpm_winnt:notice] [pid 21644:tid 444] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Tue Mar 04 13:35:08.914538 2025] [core:notice] [pid 21644:tid 444] AH00094: Command line: 'mapache.exe -d D:/Projects/DokuWikiStick/server'
+[Tue Mar 04 13:35:08.917512 2025] [mpm_winnt:notice] [pid 21644:tid 444] AH00418: Parent: Created child process 12152
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 12152:tid 452] AH00354: Child: Starting 24 worker threads.
+[Tue Mar 04 17:18:47.718057 2025] [mpm_winnt:notice] [pid 21644:tid 444] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue Mar 04 17:18:49.731858 2025] [mpm_winnt:notice] [pid 12152:tid 452] AH00364: Child: All worker threads have exited.
+[Tue Mar 04 17:18:49.780381 2025] [mpm_winnt:notice] [pid 21644:tid 444] AH00430: Parent: Child process 12152 exited successfully.
+[Tue Mar 04 18:51:35.981817 2025] [mpm_winnt:notice] [pid 3428:tid 444] AH00455: Apache/2.4.58 (Win64) PHP/8.2.13 configured -- resuming normal operations
+[Tue Mar 04 18:51:35.982779 2025] [mpm_winnt:notice] [pid 3428:tid 444] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Tue Mar 04 18:51:35.982779 2025] [core:notice] [pid 3428:tid 444] AH00094: Command line: 'mapache.exe -d D:/Projects/DokuWikiStick/server'
+[Tue Mar 04 18:51:35.985715 2025] [mpm_winnt:notice] [pid 3428:tid 444] AH00418: Parent: Created child process 10728
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 10728:tid 472] AH00354: Child: Starting 24 worker threads.
+[Tue Mar 04 18:55:47.765676 2025] [mpm_winnt:notice] [pid 3428:tid 444] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue Mar 04 18:55:49.786879 2025] [mpm_winnt:notice] [pid 10728:tid 472] AH00364: Child: All worker threads have exited.
+[Tue Mar 04 18:55:49.837160 2025] [mpm_winnt:notice] [pid 3428:tid 444] AH00430: Parent: Child process 10728 exited successfully.
+[Tue Mar 04 18:56:03.801311 2025] [mpm_winnt:notice] [pid 8136:tid 444] AH00455: Apache/2.4.58 (Win64) PHP/8.2.13 configured -- resuming normal operations
+[Tue Mar 04 18:56:03.801311 2025] [mpm_winnt:notice] [pid 8136:tid 444] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Tue Mar 04 18:56:03.801311 2025] [core:notice] [pid 8136:tid 444] AH00094: Command line: 'mapache.exe -d D:/Projects/DokuWikiStick/server'
+[Tue Mar 04 18:56:03.803315 2025] [mpm_winnt:notice] [pid 8136:tid 444] AH00418: Parent: Created child process 14500
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 14500:tid 452] AH00354: Child: Starting 24 worker threads.
+[Tue Mar 04 18:56:09.230958 2025] [mpm_winnt:notice] [pid 8136:tid 444] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue Mar 04 18:56:11.245171 2025] [mpm_winnt:notice] [pid 14500:tid 452] AH00364: Child: All worker threads have exited.
+[Tue Mar 04 18:56:11.280171 2025] [mpm_winnt:notice] [pid 8136:tid 444] AH00430: Parent: Child process 14500 exited successfully.
+[Tue Mar 04 18:56:22.661346 2025] [mpm_winnt:notice] [pid 21192:tid 208] AH00455: Apache/2.4.58 (Win64) PHP/8.2.13 configured -- resuming normal operations
+[Tue Mar 04 18:56:22.661346 2025] [mpm_winnt:notice] [pid 21192:tid 208] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Tue Mar 04 18:56:22.661346 2025] [core:notice] [pid 21192:tid 208] AH00094: Command line: 'mapache.exe -d D:/Projects/DokuWikiStick/server'
+[Tue Mar 04 18:56:22.664347 2025] [mpm_winnt:notice] [pid 21192:tid 208] AH00418: Parent: Created child process 11924
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 11924:tid 440] AH00354: Child: Starting 24 worker threads.
+[Tue Mar 04 19:10:31.870532 2025] [mpm_winnt:notice] [pid 21192:tid 208] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue Mar 04 19:10:33.884542 2025] [mpm_winnt:notice] [pid 11924:tid 440] AH00364: Child: All worker threads have exited.
+[Tue Mar 04 19:10:33.931488 2025] [mpm_winnt:notice] [pid 21192:tid 208] AH00430: Parent: Child process 11924 exited successfully.
+[Tue Mar 04 19:14:05.007586 2025] [mpm_winnt:notice] [pid 12000:tid 448] AH00455: Apache/2.4.58 (Win64) PHP/8.2.13 configured -- resuming normal operations
+[Tue Mar 04 19:14:05.007586 2025] [mpm_winnt:notice] [pid 12000:tid 448] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Tue Mar 04 19:14:05.007586 2025] [core:notice] [pid 12000:tid 448] AH00094: Command line: 'mapache.exe -d D:/Projects/DokuWikiStick/server'
+[Tue Mar 04 19:14:05.009587 2025] [mpm_winnt:notice] [pid 12000:tid 448] AH00418: Parent: Created child process 16692
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 16692:tid 480] AH00354: Child: Starting 24 worker threads.
+[Tue Mar 04 19:14:11.011072 2025] [mpm_winnt:notice] [pid 12000:tid 448] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue Mar 04 19:14:13.025286 2025] [mpm_winnt:notice] [pid 16692:tid 480] AH00364: Child: All worker threads have exited.
+[Tue Mar 04 19:14:13.063229 2025] [mpm_winnt:notice] [pid 12000:tid 448] AH00430: Parent: Child process 16692 exited successfully.
+[Tue Mar 04 19:14:21.697180 2025] [mpm_winnt:notice] [pid 10472:tid 444] AH00455: Apache/2.4.58 (Win64) PHP/8.2.13 configured -- resuming normal operations
+[Tue Mar 04 19:14:21.697180 2025] [mpm_winnt:notice] [pid 10472:tid 444] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Tue Mar 04 19:14:21.697180 2025] [core:notice] [pid 10472:tid 444] AH00094: Command line: 'mapache.exe -d D:/Projects/DokuWikiStick/server'
+[Tue Mar 04 19:14:21.700179 2025] [mpm_winnt:notice] [pid 10472:tid 444] AH00418: Parent: Created child process 6152
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 6152:tid 440] AH00354: Child: Starting 24 worker threads.
+[Tue Mar 04 22:12:17.132901 2025] [mpm_winnt:notice] [pid 10472:tid 444] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue Mar 04 22:12:19.155741 2025] [mpm_winnt:notice] [pid 6152:tid 440] AH00364: Child: All worker threads have exited.
+[Tue Mar 04 22:12:19.203594 2025] [mpm_winnt:notice] [pid 10472:tid 444] AH00430: Parent: Child process 6152 exited successfully.
+[Wed Mar 05 19:34:41.458722 2025] [mpm_winnt:notice] [pid 15816:tid 492] AH00455: Apache/2.4.58 (Win64) PHP/8.2.13 configured -- resuming normal operations
+[Wed Mar 05 19:34:41.458722 2025] [mpm_winnt:notice] [pid 15816:tid 492] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Wed Mar 05 19:34:41.458722 2025] [core:notice] [pid 15816:tid 492] AH00094: Command line: 'mapache.exe -d D:/Projects/DokuWikiStick/server'
+[Wed Mar 05 19:34:41.461698 2025] [mpm_winnt:notice] [pid 15816:tid 492] AH00418: Parent: Created child process 19100
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 19100:tid 460] AH00354: Child: Starting 24 worker threads.
+[Wed Mar 05 20:14:28.723146 2025] [mpm_winnt:notice] [pid 15816:tid 492] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Wed Mar 05 20:14:30.751810 2025] [mpm_winnt:notice] [pid 19100:tid 460] AH00364: Child: All worker threads have exited.
+[Wed Mar 05 20:14:30.800288 2025] [mpm_winnt:notice] [pid 15816:tid 492] AH00430: Parent: Child process 19100 exited successfully.
+[Thu Mar 06 18:56:35.383992 2025] [mpm_winnt:notice] [pid 12568:tid 484] AH00455: Apache/2.4.58 (Win64) PHP/8.2.13 configured -- resuming normal operations
+[Thu Mar 06 18:56:35.383992 2025] [mpm_winnt:notice] [pid 12568:tid 484] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Thu Mar 06 18:56:35.383992 2025] [core:notice] [pid 12568:tid 484] AH00094: Command line: 'mapache.exe -d D:/Projects/DokuWikiStick/server'
+[Thu Mar 06 18:56:35.386994 2025] [mpm_winnt:notice] [pid 12568:tid 484] AH00418: Parent: Created child process 17764
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 17764:tid 472] AH00354: Child: Starting 24 worker threads.
+[Thu Mar 06 20:58:32.460417 2025] [mpm_winnt:notice] [pid 12568:tid 484] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu Mar 06 20:58:34.472839 2025] [mpm_winnt:notice] [pid 17764:tid 472] AH00364: Child: All worker threads have exited.
+[Thu Mar 06 20:58:34.523156 2025] [mpm_winnt:notice] [pid 12568:tid 484] AH00430: Parent: Child process 17764 exited successfully.
+[Sat Mar 08 19:46:14.938047 2025] [mpm_winnt:notice] [pid 17528:tid 200] AH00455: Apache/2.4.58 (Win64) PHP/8.2.13 configured -- resuming normal operations
+[Sat Mar 08 19:46:14.938047 2025] [mpm_winnt:notice] [pid 17528:tid 200] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Sat Mar 08 19:46:14.938047 2025] [core:notice] [pid 17528:tid 200] AH00094: Command line: 'mapache.exe -d D:/Projects/DokuWikiStick/server'
+[Sat Mar 08 19:46:14.940995 2025] [mpm_winnt:notice] [pid 17528:tid 200] AH00418: Parent: Created child process 9664
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 9664:tid 444] AH00354: Child: Starting 24 worker threads.
+[Sat Mar 08 21:13:21.508185 2025] [mpm_winnt:notice] [pid 17528:tid 200] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sat Mar 08 21:13:23.517543 2025] [mpm_winnt:notice] [pid 9664:tid 444] AH00364: Child: All worker threads have exited.
+[Sat Mar 08 21:13:23.565112 2025] [mpm_winnt:notice] [pid 17528:tid 200] AH00430: Parent: Child process 9664 exited successfully.
+[Sat Mar 08 22:35:48.810663 2025] [mpm_winnt:notice] [pid 12960:tid 444] AH00455: Apache/2.4.58 (Win64) PHP/8.2.13 configured -- resuming normal operations
+[Sat Mar 08 22:35:48.810663 2025] [mpm_winnt:notice] [pid 12960:tid 444] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Sat Mar 08 22:35:48.810663 2025] [core:notice] [pid 12960:tid 444] AH00094: Command line: 'mapache.exe -d D:/Projects/DokuWikiStick/server'
+[Sat Mar 08 22:35:48.813664 2025] [mpm_winnt:notice] [pid 12960:tid 444] AH00418: Parent: Created child process 22620
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 22620:tid 444] AH00354: Child: Starting 24 worker threads.
+[Sun Mar 09 00:30:35.912565 2025] [mpm_winnt:notice] [pid 12960:tid 444] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sun Mar 09 00:30:37.927992 2025] [mpm_winnt:notice] [pid 22620:tid 444] AH00364: Child: All worker threads have exited.
+[Sun Mar 09 00:30:37.975972 2025] [mpm_winnt:notice] [pid 12960:tid 444] AH00430: Parent: Child process 22620 exited successfully.
+[Sun Mar 09 18:38:49.986180 2025] [mpm_winnt:notice] [pid 23328:tid 468] AH00455: Apache/2.4.58 (Win64) PHP/8.2.13 configured -- resuming normal operations
+[Sun Mar 09 18:38:49.986180 2025] [mpm_winnt:notice] [pid 23328:tid 468] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Sun Mar 09 18:38:49.986180 2025] [core:notice] [pid 23328:tid 468] AH00094: Command line: 'mapache.exe -d D:/Projects/DokuWikiStick/server'
+[Sun Mar 09 18:38:49.988947 2025] [mpm_winnt:notice] [pid 23328:tid 468] AH00418: Parent: Created child process 13292
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 13292:tid 440] AH00354: Child: Starting 24 worker threads.
+[Sun Mar 09 22:14:48.879452 2025] [authz_core:error] [pid 13292:tid 852] [client 127.0.0.1:53745] AH01630: client denied by server configuration: D:/Projects/DokuWikiStick/dokuwiki/data/dont-panic-if-you-see-this-in-your-logs-it-means-your-directory-permissions-are-correct.png, referer: http://localhost:8800/doku.php?id=world&do=admin
+[Sun Mar 09 22:15:19.878987 2025] [php:error] [pid 13292:tid 856] [client 127.0.0.1:53747] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in D:\\Projects\\DokuWikiStick\\dokuwiki\\inc\\HTTP\\HTTPClient.php on line 704, referer: http://localhost:8800/doku.php?id=world&do=admin
+[Sun Mar 09 22:22:09.598690 2025] [php:warn] [pid 13292:tid 852] [client 127.0.0.1:53977] PHP Warning:  Undefined array key 1 in D:\\Projects\\DokuWikiStick\\dokuwiki\\lib\\plugins\\toctweak\\helper.php on line 37, referer: http://localhost:8800/doku.php?id=myanmar_s_struggle_for_democracy_and_autonomy&do=edit
+[Sun Mar 09 22:22:09.598690 2025] [php:warn] [pid 13292:tid 852] [client 127.0.0.1:53977] PHP Warning:  Undefined array key 1 in D:\\Projects\\DokuWikiStick\\dokuwiki\\lib\\plugins\\toctweak\\helper.php on line 38, referer: http://localhost:8800/doku.php?id=myanmar_s_struggle_for_democracy_and_autonomy&do=edit
+[Sun Mar 09 22:22:09.599691 2025] [php:warn] [pid 13292:tid 852] [client 127.0.0.1:53977] PHP Warning:  Undefined variable $topLv in D:\\Projects\\DokuWikiStick\\dokuwiki\\lib\\plugins\\toctweak\\helper.php on line 85, referer: http://localhost:8800/doku.php?id=myanmar_s_struggle_for_democracy_and_autonomy&do=edit
+[Sun Mar 09 22:22:09.600690 2025] [php:warn] [pid 13292:tid 852] [client 127.0.0.1:53977] PHP Warning:  Undefined variable $maxLv in D:\\Projects\\DokuWikiStick\\dokuwiki\\lib\\plugins\\toctweak\\helper.php on line 85, referer: http://localhost:8800/doku.php?id=myanmar_s_struggle_for_democracy_and_autonomy&do=edit
+[Sun Mar 09 22:22:09.605691 2025] [php:warn] [pid 13292:tid 852] [client 127.0.0.1:53977] PHP Warning:  Undefined array key 1 in D:\\Projects\\DokuWikiStick\\dokuwiki\\lib\\plugins\\toctweak\\syntax\\metatoc.php on line 79, referer: http://localhost:8800/doku.php?id=myanmar_s_struggle_for_democracy_and_autonomy&do=edit
+[Sun Mar 09 22:22:09.606689 2025] [php:warn] [pid 13292:tid 852] [client 127.0.0.1:53977] PHP Warning:  Trying to access array offset on value of type null in D:\\Projects\\DokuWikiStick\\dokuwiki\\lib\\plugins\\toctweak\\syntax\\metatoc.php on line 84, referer: http://localhost:8800/doku.php?id=myanmar_s_struggle_for_democracy_and_autonomy&do=edit
+[Sun Mar 09 22:22:09.622692 2025] [php:warn] [pid 13292:tid 852] [client 127.0.0.1:53977] PHP Warning:  Undefined array key 1 in D:\\Projects\\DokuWikiStick\\dokuwiki\\lib\\plugins\\toctweak\\syntax\\metatoc.php on line 79, referer: http://localhost:8800/doku.php?id=myanmar_s_struggle_for_democracy_and_autonomy&do=edit
+[Sun Mar 09 22:22:09.674877 2025] [php:warn] [pid 13292:tid 852] [client 127.0.0.1:53977] PHP Warning:  Undefined array key 1 in D:\\Projects\\DokuWikiStick\\dokuwiki\\lib\\plugins\\toctweak\\helper.php on line 37, referer: http://localhost:8800/doku.php?id=myanmar_s_struggle_for_democracy_and_autonomy
+[Sun Mar 09 22:22:09.675875 2025] [php:warn] [pid 13292:tid 852] [client 127.0.0.1:53977] PHP Warning:  Undefined array key 1 in D:\\Projects\\DokuWikiStick\\dokuwiki\\lib\\plugins\\toctweak\\helper.php on line 38, referer: http://localhost:8800/doku.php?id=myanmar_s_struggle_for_democracy_and_autonomy
+[Sun Mar 09 22:22:09.676881 2025] [php:warn] [pid 13292:tid 852] [client 127.0.0.1:53977] PHP Warning:  Undefined variable $topLv in D:\\Projects\\DokuWikiStick\\dokuwiki\\lib\\plugins\\toctweak\\helper.php on line 85, referer: http://localhost:8800/doku.php?id=myanmar_s_struggle_for_democracy_and_autonomy
+[Sun Mar 09 22:22:09.677878 2025] [php:warn] [pid 13292:tid 852] [client 127.0.0.1:53977] PHP Warning:  Undefined variable $maxLv in D:\\Projects\\DokuWikiStick\\dokuwiki\\lib\\plugins\\toctweak\\helper.php on line 85, referer: http://localhost:8800/doku.php?id=myanmar_s_struggle_for_democracy_and_autonomy
+[Sun Mar 09 22:22:09.683876 2025] [php:warn] [pid 13292:tid 852] [client 127.0.0.1:53977] PHP Warning:  Undefined array key 1 in D:\\Projects\\DokuWikiStick\\dokuwiki\\lib\\plugins\\toctweak\\syntax\\metatoc.php on line 79, referer: http://localhost:8800/doku.php?id=myanmar_s_struggle_for_democracy_and_autonomy
+[Sun Mar 09 22:22:09.684880 2025] [php:warn] [pid 13292:tid 852] [client 127.0.0.1:53977] PHP Warning:  Trying to access array offset on value of type null in D:\\Projects\\DokuWikiStick\\dokuwiki\\lib\\plugins\\toctweak\\syntax\\metatoc.php on line 84, referer: http://localhost:8800/doku.php?id=myanmar_s_struggle_for_democracy_and_autonomy
+[Sun Mar 09 22:22:13.784458 2025] [php:warn] [pid 13292:tid 852] [client 127.0.0.1:53978] PHP Warning:  Undefined array key 1 in D:\\Projects\\DokuWikiStick\\dokuwiki\\lib\\plugins\\toctweak\\helper.php on line 37, referer: http://localhost:8800/doku.php?id=myanmar_s_struggle_for_democracy_and_autonomy
+[Sun Mar 09 22:22:13.785446 2025] [php:warn] [pid 13292:tid 852] [client 127.0.0.1:53978] PHP Warning:  Undefined array key 1 in D:\\Projects\\DokuWikiStick\\dokuwiki\\lib\\plugins\\toctweak\\helper.php on line 38, referer: http://localhost:8800/doku.php?id=myanmar_s_struggle_for_democracy_and_autonomy
+[Sun Mar 09 22:22:13.785446 2025] [php:warn] [pid 13292:tid 852] [client 127.0.0.1:53978] PHP Warning:  Undefined variable $topLv in D:\\Projects\\DokuWikiStick\\dokuwiki\\lib\\plugins\\toctweak\\helper.php on line 85, referer: http://localhost:8800/doku.php?id=myanmar_s_struggle_for_democracy_and_autonomy
+[Sun Mar 09 22:22:13.786443 2025] [php:warn] [pid 13292:tid 852] [client 127.0.0.1:53978] PHP Warning:  Undefined variable $maxLv in D:\\Projects\\DokuWikiStick\\dokuwiki\\lib\\plugins\\toctweak\\helper.php on line 85, referer: http://localhost:8800/doku.php?id=myanmar_s_struggle_for_democracy_and_autonomy
+[Sun Mar 09 22:22:13.791443 2025] [php:warn] [pid 13292:tid 852] [client 127.0.0.1:53978] PHP Warning:  Undefined array key 1 in D:\\Projects\\DokuWikiStick\\dokuwiki\\lib\\plugins\\toctweak\\syntax\\metatoc.php on line 79, referer: http://localhost:8800/doku.php?id=myanmar_s_struggle_for_democracy_and_autonomy
+[Sun Mar 09 22:22:13.791443 2025] [php:warn] [pid 13292:tid 852] [client 127.0.0.1:53978] PHP Warning:  Trying to access array offset on value of type null in D:\\Projects\\DokuWikiStick\\dokuwiki\\lib\\plugins\\toctweak\\syntax\\metatoc.php on line 84, referer: http://localhost:8800/doku.php?id=myanmar_s_struggle_for_democracy_and_autonomy
+[Sun Mar 09 22:22:22.328245 2025] [php:warn] [pid 13292:tid 852] [client 127.0.0.1:53979] PHP Warning:  Undefined array key 1 in D:\\Projects\\DokuWikiStick\\dokuwiki\\lib\\plugins\\toctweak\\helper.php on line 37, referer: http://localhost:8800/doku.php?id=myanmar_s_struggle_for_democracy_and_autonomy&do=edit
+[Sun Mar 09 22:22:22.329236 2025] [php:warn] [pid 13292:tid 852] [client 127.0.0.1:53979] PHP Warning:  Undefined array key 1 in D:\\Projects\\DokuWikiStick\\dokuwiki\\lib\\plugins\\toctweak\\helper.php on line 38, referer: http://localhost:8800/doku.php?id=myanmar_s_struggle_for_democracy_and_autonomy&do=edit
+[Sun Mar 09 22:22:22.330238 2025] [php:warn] [pid 13292:tid 852] [client 127.0.0.1:53979] PHP Warning:  Undefined variable $topLv in D:\\Projects\\DokuWikiStick\\dokuwiki\\lib\\plugins\\toctweak\\helper.php on line 85, referer: http://localhost:8800/doku.php?id=myanmar_s_struggle_for_democracy_and_autonomy&do=edit
+[Sun Mar 09 22:22:22.331287 2025] [php:warn] [pid 13292:tid 852] [client 127.0.0.1:53979] PHP Warning:  Undefined variable $maxLv in D:\\Projects\\DokuWikiStick\\dokuwiki\\lib\\plugins\\toctweak\\helper.php on line 85, referer: http://localhost:8800/doku.php?id=myanmar_s_struggle_for_democracy_and_autonomy&do=edit
+[Sun Mar 09 22:22:22.336250 2025] [php:warn] [pid 13292:tid 852] [client 127.0.0.1:53979] PHP Warning:  Undefined array key 1 in D:\\Projects\\DokuWikiStick\\dokuwiki\\lib\\plugins\\toctweak\\syntax\\metatoc.php on line 79, referer: http://localhost:8800/doku.php?id=myanmar_s_struggle_for_democracy_and_autonomy&do=edit
+[Sun Mar 09 22:22:22.336250 2025] [php:warn] [pid 13292:tid 852] [client 127.0.0.1:53979] PHP Warning:  Trying to access array offset on value of type null in D:\\Projects\\DokuWikiStick\\dokuwiki\\lib\\plugins\\toctweak\\syntax\\metatoc.php on line 84, referer: http://localhost:8800/doku.php?id=myanmar_s_struggle_for_democracy_and_autonomy&do=edit
+[Sun Mar 09 22:22:22.352135 2025] [php:warn] [pid 13292:tid 852] [client 127.0.0.1:53979] PHP Warning:  Undefined array key 1 in D:\\Projects\\DokuWikiStick\\dokuwiki\\lib\\plugins\\toctweak\\syntax\\metatoc.php on line 79, referer: http://localhost:8800/doku.php?id=myanmar_s_struggle_for_democracy_and_autonomy&do=edit
+[Sun Mar 09 22:22:22.394136 2025] [php:warn] [pid 13292:tid 852] [client 127.0.0.1:53979] PHP Warning:  Undefined array key 1 in D:\\Projects\\DokuWikiStick\\dokuwiki\\lib\\plugins\\toctweak\\helper.php on line 37, referer: http://localhost:8800/doku.php?id=myanmar_s_struggle_for_democracy_and_autonomy
+[Sun Mar 09 22:22:22.395137 2025] [php:warn] [pid 13292:tid 852] [client 127.0.0.1:53979] PHP Warning:  Undefined array key 1 in D:\\Projects\\DokuWikiStick\\dokuwiki\\lib\\plugins\\toctweak\\helper.php on line 38, referer: http://localhost:8800/doku.php?id=myanmar_s_struggle_for_democracy_and_autonomy
+[Sun Mar 09 22:22:22.396137 2025] [php:warn] [pid 13292:tid 852] [client 127.0.0.1:53979] PHP Warning:  Undefined variable $topLv in D:\\Projects\\DokuWikiStick\\dokuwiki\\lib\\plugins\\toctweak\\helper.php on line 85, referer: http://localhost:8800/doku.php?id=myanmar_s_struggle_for_democracy_and_autonomy
+[Sun Mar 09 22:22:22.396137 2025] [php:warn] [pid 13292:tid 852] [client 127.0.0.1:53979] PHP Warning:  Undefined variable $maxLv in D:\\Projects\\DokuWikiStick\\dokuwiki\\lib\\plugins\\toctweak\\helper.php on line 85, referer: http://localhost:8800/doku.php?id=myanmar_s_struggle_for_democracy_and_autonomy
+[Sun Mar 09 22:22:22.401143 2025] [php:warn] [pid 13292:tid 852] [client 127.0.0.1:53979] PHP Warning:  Undefined array key 1 in D:\\Projects\\DokuWikiStick\\dokuwiki\\lib\\plugins\\toctweak\\syntax\\metatoc.php on line 79, referer: http://localhost:8800/doku.php?id=myanmar_s_struggle_for_democracy_and_autonomy
+[Sun Mar 09 22:22:22.402142 2025] [php:warn] [pid 13292:tid 852] [client 127.0.0.1:53979] PHP Warning:  Trying to access array offset on value of type null in D:\\Projects\\DokuWikiStick\\dokuwiki\\lib\\plugins\\toctweak\\syntax\\metatoc.php on line 84, referer: http://localhost:8800/doku.php?id=myanmar_s_struggle_for_democracy_and_autonomy
+[Sun Mar 09 22:22:26.014864 2025] [php:warn] [pid 13292:tid 852] [client 127.0.0.1:53981] PHP Warning:  Undefined array key 1 in D:\\Projects\\DokuWikiStick\\dokuwiki\\lib\\plugins\\toctweak\\helper.php on line 37, referer: http://localhost:8800/doku.php?id=myanmar_s_struggle_for_democracy_and_autonomy
+[Sun Mar 09 22:22:26.015865 2025] [php:warn] [pid 13292:tid 852] [client 127.0.0.1:53981] PHP Warning:  Undefined array key 1 in D:\\Projects\\DokuWikiStick\\dokuwiki\\lib\\plugins\\toctweak\\helper.php on line 38, referer: http://localhost:8800/doku.php?id=myanmar_s_struggle_for_democracy_and_autonomy
+[Sun Mar 09 22:22:26.015865 2025] [php:warn] [pid 13292:tid 852] [client 127.0.0.1:53981] PHP Warning:  Undefined variable $topLv in D:\\Projects\\DokuWikiStick\\dokuwiki\\lib\\plugins\\toctweak\\helper.php on line 85, referer: http://localhost:8800/doku.php?id=myanmar_s_struggle_for_democracy_and_autonomy
+[Sun Mar 09 22:22:26.016868 2025] [php:warn] [pid 13292:tid 852] [client 127.0.0.1:53981] PHP Warning:  Undefined variable $maxLv in D:\\Projects\\DokuWikiStick\\dokuwiki\\lib\\plugins\\toctweak\\helper.php on line 85, referer: http://localhost:8800/doku.php?id=myanmar_s_struggle_for_democracy_and_autonomy
+[Sun Mar 09 22:22:26.021848 2025] [php:warn] [pid 13292:tid 852] [client 127.0.0.1:53981] PHP Warning:  Undefined array key 1 in D:\\Projects\\DokuWikiStick\\dokuwiki\\lib\\plugins\\toctweak\\syntax\\metatoc.php on line 79, referer: http://localhost:8800/doku.php?id=myanmar_s_struggle_for_democracy_and_autonomy
+[Sun Mar 09 22:22:26.022385 2025] [php:warn] [pid 13292:tid 852] [client 127.0.0.1:53981] PHP Warning:  Trying to access array offset on value of type null in D:\\Projects\\DokuWikiStick\\dokuwiki\\lib\\plugins\\toctweak\\syntax\\metatoc.php on line 84, referer: http://localhost:8800/doku.php?id=myanmar_s_struggle_for_democracy_and_autonomy
+[Sun Mar 09 22:26:29.855935 2025] [php:warn] [pid 13292:tid 516] [client 127.0.0.1:54077] PHP Warning:  Undefined array key 1 in D:\\Projects\\DokuWikiStick\\dokuwiki\\lib\\plugins\\toctweak\\helper.php on line 37, referer: http://localhost:8800/doku.php?id=paradise_papers_-_the_secrets_of_the_rich&do=edit
+[Sun Mar 09 22:26:29.856933 2025] [php:warn] [pid 13292:tid 516] [client 127.0.0.1:54077] PHP Warning:  Undefined array key 1 in D:\\Projects\\DokuWikiStick\\dokuwiki\\lib\\plugins\\toctweak\\helper.php on line 38, referer: http://localhost:8800/doku.php?id=paradise_papers_-_the_secrets_of_the_rich&do=edit
+[Sun Mar 09 22:26:29.856933 2025] [php:warn] [pid 13292:tid 516] [client 127.0.0.1:54077] PHP Warning:  Undefined variable $topLv in D:\\Projects\\DokuWikiStick\\dokuwiki\\lib\\plugins\\toctweak\\helper.php on line 85, referer: http://localhost:8800/doku.php?id=paradise_papers_-_the_secrets_of_the_rich&do=edit
+[Sun Mar 09 22:26:29.857939 2025] [php:warn] [pid 13292:tid 516] [client 127.0.0.1:54077] PHP Warning:  Undefined variable $maxLv in D:\\Projects\\DokuWikiStick\\dokuwiki\\lib\\plugins\\toctweak\\helper.php on line 85, referer: http://localhost:8800/doku.php?id=paradise_papers_-_the_secrets_of_the_rich&do=edit
+[Sun Mar 09 22:26:29.862954 2025] [php:warn] [pid 13292:tid 516] [client 127.0.0.1:54077] PHP Warning:  Undefined array key 1 in D:\\Projects\\DokuWikiStick\\dokuwiki\\lib\\plugins\\toctweak\\syntax\\metatoc.php on line 79, referer: http://localhost:8800/doku.php?id=paradise_papers_-_the_secrets_of_the_rich&do=edit
+[Sun Mar 09 22:26:29.863931 2025] [php:warn] [pid 13292:tid 516] [client 127.0.0.1:54077] PHP Warning:  Trying to access array offset on value of type null in D:\\Projects\\DokuWikiStick\\dokuwiki\\lib\\plugins\\toctweak\\syntax\\metatoc.php on line 84, referer: http://localhost:8800/doku.php?id=paradise_papers_-_the_secrets_of_the_rich&do=edit
+[Sun Mar 09 22:26:29.879932 2025] [php:warn] [pid 13292:tid 516] [client 127.0.0.1:54077] PHP Warning:  Undefined array key 1 in D:\\Projects\\DokuWikiStick\\dokuwiki\\lib\\plugins\\toctweak\\syntax\\metatoc.php on line 79, referer: http://localhost:8800/doku.php?id=paradise_papers_-_the_secrets_of_the_rich&do=edit
+[Sun Mar 09 22:26:29.925138 2025] [php:warn] [pid 13292:tid 516] [client 127.0.0.1:54077] PHP Warning:  Undefined array key 1 in D:\\Projects\\DokuWikiStick\\dokuwiki\\lib\\plugins\\toctweak\\helper.php on line 37, referer: http://localhost:8800/doku.php?id=paradise_papers_-_the_secrets_of_the_rich
+[Sun Mar 09 22:26:29.926140 2025] [php:warn] [pid 13292:tid 516] [client 127.0.0.1:54077] PHP Warning:  Undefined array key 1 in D:\\Projects\\DokuWikiStick\\dokuwiki\\lib\\plugins\\toctweak\\helper.php on line 38, referer: http://localhost:8800/doku.php?id=paradise_papers_-_the_secrets_of_the_rich
+[Sun Mar 09 22:26:29.927138 2025] [php:warn] [pid 13292:tid 516] [client 127.0.0.1:54077] PHP Warning:  Undefined variable $topLv in D:\\Projects\\DokuWikiStick\\dokuwiki\\lib\\plugins\\toctweak\\helper.php on line 85, referer: http://localhost:8800/doku.php?id=paradise_papers_-_the_secrets_of_the_rich
+[Sun Mar 09 22:26:29.927138 2025] [php:warn] [pid 13292:tid 516] [client 127.0.0.1:54077] PHP Warning:  Undefined variable $maxLv in D:\\Projects\\DokuWikiStick\\dokuwiki\\lib\\plugins\\toctweak\\helper.php on line 85, referer: http://localhost:8800/doku.php?id=paradise_papers_-_the_secrets_of_the_rich
+[Sun Mar 09 22:26:29.933139 2025] [php:warn] [pid 13292:tid 516] [client 127.0.0.1:54077] PHP Warning:  Undefined array key 1 in D:\\Projects\\DokuWikiStick\\dokuwiki\\lib\\plugins\\toctweak\\syntax\\metatoc.php on line 79, referer: http://localhost:8800/doku.php?id=paradise_papers_-_the_secrets_of_the_rich
+[Sun Mar 09 22:26:29.934138 2025] [php:warn] [pid 13292:tid 516] [client 127.0.0.1:54077] PHP Warning:  Trying to access array offset on value of type null in D:\\Projects\\DokuWikiStick\\dokuwiki\\lib\\plugins\\toctweak\\syntax\\metatoc.php on line 84, referer: http://localhost:8800/doku.php?id=paradise_papers_-_the_secrets_of_the_rich
+[Sun Mar 09 22:26:33.040277 2025] [php:warn] [pid 13292:tid 516] [client 127.0.0.1:54079] PHP Warning:  Undefined array key 1 in D:\\Projects\\DokuWikiStick\\dokuwiki\\lib\\plugins\\toctweak\\helper.php on line 37, referer: http://localhost:8800/doku.php?id=paradise_papers_-_the_secrets_of_the_rich
+[Sun Mar 09 22:26:33.041294 2025] [php:warn] [pid 13292:tid 516] [client 127.0.0.1:54079] PHP Warning:  Undefined array key 1 in D:\\Projects\\DokuWikiStick\\dokuwiki\\lib\\plugins\\toctweak\\helper.php on line 38, referer: http://localhost:8800/doku.php?id=paradise_papers_-_the_secrets_of_the_rich
+[Sun Mar 09 22:26:33.042295 2025] [php:warn] [pid 13292:tid 516] [client 127.0.0.1:54079] PHP Warning:  Undefined variable $topLv in D:\\Projects\\DokuWikiStick\\dokuwiki\\lib\\plugins\\toctweak\\helper.php on line 85, referer: http://localhost:8800/doku.php?id=paradise_papers_-_the_secrets_of_the_rich
+[Sun Mar 09 22:26:33.043277 2025] [php:warn] [pid 13292:tid 516] [client 127.0.0.1:54079] PHP Warning:  Undefined variable $maxLv in D:\\Projects\\DokuWikiStick\\dokuwiki\\lib\\plugins\\toctweak\\helper.php on line 85, referer: http://localhost:8800/doku.php?id=paradise_papers_-_the_secrets_of_the_rich
+[Sun Mar 09 22:26:33.048282 2025] [php:warn] [pid 13292:tid 516] [client 127.0.0.1:54079] PHP Warning:  Undefined array key 1 in D:\\Projects\\DokuWikiStick\\dokuwiki\\lib\\plugins\\toctweak\\syntax\\metatoc.php on line 79, referer: http://localhost:8800/doku.php?id=paradise_papers_-_the_secrets_of_the_rich
+[Sun Mar 09 22:26:33.049281 2025] [php:warn] [pid 13292:tid 516] [client 127.0.0.1:54079] PHP Warning:  Trying to access array offset on value of type null in D:\\Projects\\DokuWikiStick\\dokuwiki\\lib\\plugins\\toctweak\\syntax\\metatoc.php on line 84, referer: http://localhost:8800/doku.php?id=paradise_papers_-_the_secrets_of_the_rich
+[Sun Mar 09 22:26:58.554204 2025] [mpm_winnt:notice] [pid 23328:tid 468] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sun Mar 09 22:27:00.566335 2025] [mpm_winnt:notice] [pid 13292:tid 440] AH00364: Child: All worker threads have exited.
+[Sun Mar 09 22:27:00.619561 2025] [mpm_winnt:notice] [pid 23328:tid 468] AH00430: Parent: Child process 13292 exited successfully.
+[Mon Mar 10 20:26:51.581176 2025] [mpm_winnt:notice] [pid 27280:tid 204] AH00455: Apache/2.4.58 (Win64) PHP/8.2.13 configured -- resuming normal operations
+[Mon Mar 10 20:26:51.582170 2025] [mpm_winnt:notice] [pid 27280:tid 204] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Mon Mar 10 20:26:51.582170 2025] [core:notice] [pid 27280:tid 204] AH00094: Command line: 'mapache.exe -d D:/Projects/DokuWikiStick/server'
+[Mon Mar 10 20:26:51.584171 2025] [mpm_winnt:notice] [pid 27280:tid 204] AH00418: Parent: Created child process 25756
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 25756:tid 440] AH00354: Child: Starting 24 worker threads.
+[Mon Mar 10 20:26:56.909102 2025] [mpm_winnt:notice] [pid 27280:tid 204] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Mar 10 20:26:58.916329 2025] [mpm_winnt:notice] [pid 25756:tid 440] AH00364: Child: All worker threads have exited.
+[Mon Mar 10 20:26:58.969741 2025] [mpm_winnt:notice] [pid 27280:tid 204] AH00430: Parent: Child process 25756 exited successfully.
+[Mon Mar 10 20:35:12.115892 2025] [mpm_winnt:notice] [pid 21884:tid 444] AH00455: Apache/2.4.58 (Win64) PHP/8.2.13 configured -- resuming normal operations
+[Mon Mar 10 20:35:12.115892 2025] [mpm_winnt:notice] [pid 21884:tid 444] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Mon Mar 10 20:35:12.115892 2025] [core:notice] [pid 21884:tid 444] AH00094: Command line: 'mapache.exe -d D:/Projects/DokuWikiStick/server'
+[Mon Mar 10 20:35:12.117891 2025] [mpm_winnt:notice] [pid 21884:tid 444] AH00418: Parent: Created child process 5160
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 5160:tid 448] AH00354: Child: Starting 24 worker threads.
+[Mon Mar 10 22:16:05.043581 2025] [mpm_winnt:notice] [pid 21884:tid 444] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Mar 10 22:16:07.050692 2025] [mpm_winnt:notice] [pid 5160:tid 448] AH00364: Child: All worker threads have exited.
+[Mon Mar 10 22:16:07.133746 2025] [mpm_winnt:notice] [pid 21884:tid 444] AH00430: Parent: Child process 5160 exited successfully.
+[Tue Mar 11 17:30:12.946543 2025] [mpm_winnt:notice] [pid 6312:tid 468] AH00455: Apache/2.4.58 (Win64) PHP/8.2.13 configured -- resuming normal operations
+[Tue Mar 11 17:30:12.947547 2025] [mpm_winnt:notice] [pid 6312:tid 468] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Tue Mar 11 17:30:12.947547 2025] [core:notice] [pid 6312:tid 468] AH00094: Command line: 'mapache.exe -d D:/Projects/DokuWikiStick/server'
+[Tue Mar 11 17:30:12.949560 2025] [mpm_winnt:notice] [pid 6312:tid 468] AH00418: Parent: Created child process 3264
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 3264:tid 484] AH00354: Child: Starting 24 worker threads.
+[Tue Mar 11 17:33:52.366391 2025] [mpm_winnt:notice] [pid 6312:tid 468] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue Mar 11 17:33:54.376464 2025] [mpm_winnt:notice] [pid 3264:tid 484] AH00364: Child: All worker threads have exited.
+[Tue Mar 11 17:33:54.424002 2025] [mpm_winnt:notice] [pid 6312:tid 468] AH00430: Parent: Child process 3264 exited successfully.
+[Tue Mar 11 19:32:21.201532 2025] [mpm_winnt:notice] [pid 6164:tid 448] AH00455: Apache/2.4.58 (Win64) PHP/8.2.13 configured -- resuming normal operations
+[Tue Mar 11 19:32:21.202532 2025] [mpm_winnt:notice] [pid 6164:tid 448] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Tue Mar 11 19:32:21.202532 2025] [core:notice] [pid 6164:tid 448] AH00094: Command line: 'mapache.exe -d D:/Projects/DokuWikiStick/server'
+[Tue Mar 11 19:32:21.205532 2025] [mpm_winnt:notice] [pid 6164:tid 448] AH00418: Parent: Created child process 4688
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 4688:tid 444] AH00354: Child: Starting 24 worker threads.
+[Tue Mar 11 21:36:24.391207 2025] [mpm_winnt:notice] [pid 6164:tid 448] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue Mar 11 21:36:26.417143 2025] [mpm_winnt:notice] [pid 4688:tid 444] AH00364: Child: All worker threads have exited.
+[Tue Mar 11 21:36:26.467457 2025] [mpm_winnt:notice] [pid 6164:tid 448] AH00430: Parent: Child process 4688 exited successfully.
+[Wed Mar 12 09:54:57.078145 2025] [mpm_winnt:notice] [pid 9440:tid 468] AH00455: Apache/2.4.58 (Win64) PHP/8.2.13 configured -- resuming normal operations
+[Wed Mar 12 09:54:57.078145 2025] [mpm_winnt:notice] [pid 9440:tid 468] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Wed Mar 12 09:54:57.078145 2025] [core:notice] [pid 9440:tid 468] AH00094: Command line: 'mapache.exe -d D:/Projects/DokuWikiStick/server'
+[Wed Mar 12 09:54:57.081116 2025] [mpm_winnt:notice] [pid 9440:tid 468] AH00418: Parent: Created child process 21624
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 21624:tid 448] AH00354: Child: Starting 24 worker threads.
+[Wed Mar 12 10:11:37.493237 2025] [authz_core:error] [pid 21624:tid 848] [client 127.0.0.1:50300] AH01630: client denied by server configuration: D:/Projects/DokuWikiStick/dokuwiki/data/dont-panic-if-you-see-this-in-your-logs-it-means-your-directory-permissions-are-correct.png, referer: http://localhost:8800/doku.php?id=the_struggle_of_the_tigray_war_on_ethiopia_s_citizens&do=admin
+[Wed Mar 12 10:15:18.792573 2025] [authz_core:error] [pid 21624:tid 848] [client 127.0.0.1:50369] AH01630: client denied by server configuration: D:/Projects/DokuWikiStick/dokuwiki/data/dont-panic-if-you-see-this-in-your-logs-it-means-your-directory-permissions-are-correct.png, referer: http://localhost:8800/doku.php?id=the_struggle_of_the_tigray_war_on_ethiopia_s_citizens&do=admin
+[Wed Mar 12 10:55:39.427234 2025] [mpm_winnt:notice] [pid 9440:tid 468] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Wed Mar 12 10:55:41.446856 2025] [mpm_winnt:notice] [pid 21624:tid 448] AH00364: Child: All worker threads have exited.
+[Wed Mar 12 10:55:41.501064 2025] [mpm_winnt:notice] [pid 9440:tid 468] AH00430: Parent: Child process 21624 exited successfully.
+[Wed Mar 12 10:59:08.744031 2025] [mpm_winnt:notice] [pid 4688:tid 448] AH00455: Apache/2.4.58 (Win64) PHP/8.2.13 configured -- resuming normal operations
+[Wed Mar 12 10:59:08.744031 2025] [mpm_winnt:notice] [pid 4688:tid 448] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Wed Mar 12 10:59:08.744031 2025] [core:notice] [pid 4688:tid 448] AH00094: Command line: 'mapache.exe -d D:/Projects/DokuWikiStick/server'
+[Wed Mar 12 10:59:08.746032 2025] [mpm_winnt:notice] [pid 4688:tid 448] AH00418: Parent: Created child process 16168
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 16168:tid 444] AH00354: Child: Starting 24 worker threads.
+[Wed Mar 12 11:21:39.551289 2025] [mpm_winnt:notice] [pid 4688:tid 448] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Wed Mar 12 11:21:41.573790 2025] [mpm_winnt:notice] [pid 16168:tid 444] AH00364: Child: All worker threads have exited.
+[Wed Mar 12 11:21:41.613387 2025] [mpm_winnt:notice] [pid 4688:tid 448] AH00430: Parent: Child process 16168 exited successfully.
+[Wed Mar 12 18:19:43.283563 2025] [mpm_winnt:notice] [pid 22384:tid 460] AH00455: Apache/2.4.58 (Win64) PHP/8.2.13 configured -- resuming normal operations
+[Wed Mar 12 18:19:43.283563 2025] [mpm_winnt:notice] [pid 22384:tid 460] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Wed Mar 12 18:19:43.283563 2025] [core:notice] [pid 22384:tid 460] AH00094: Command line: 'mapache.exe -d D:/Projects/DokuWikiStick/server'
+[Wed Mar 12 18:19:43.286557 2025] [mpm_winnt:notice] [pid 22384:tid 460] AH00418: Parent: Created child process 24192
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 24192:tid 464] AH00354: Child: Starting 24 worker threads.
+[Wed Mar 12 18:19:52.261740 2025] [mpm_winnt:notice] [pid 22384:tid 460] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Wed Mar 12 18:20:01.170544 2025] [mpm_winnt:notice] [pid 24192:tid 464] AH00364: Child: All worker threads have exited.
+[Wed Mar 12 18:20:14.723760 2025] [core:warn] [pid 23752:tid 444] AH00098: pid file D:/Projects/DokuWikiStick/server/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Mar 12 18:20:14.936031 2025] [mpm_winnt:notice] [pid 23752:tid 444] AH00455: Apache/2.4.58 (Win64) PHP/8.2.13 configured -- resuming normal operations
+[Wed Mar 12 18:20:14.936031 2025] [mpm_winnt:notice] [pid 23752:tid 444] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Wed Mar 12 18:20:14.936031 2025] [core:notice] [pid 23752:tid 444] AH00094: Command line: 'mapache.exe -d D:/Projects/DokuWikiStick/server'
+[Wed Mar 12 18:20:14.938003 2025] [mpm_winnt:notice] [pid 23752:tid 444] AH00418: Parent: Created child process 8700
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 8700:tid 484] AH00354: Child: Starting 24 worker threads.
+[Wed Mar 12 19:21:11.203282 2025] [mpm_winnt:notice] [pid 23752:tid 444] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Wed Mar 12 19:21:13.221615 2025] [mpm_winnt:notice] [pid 8700:tid 484] AH00364: Child: All worker threads have exited.
+[Wed Mar 12 19:21:13.273233 2025] [mpm_winnt:notice] [pid 23752:tid 444] AH00430: Parent: Child process 8700 exited successfully.
+[Wed Mar 12 19:21:25.087328 2025] [mpm_winnt:notice] [pid 22136:tid 476] AH00455: Apache/2.4.58 (Win64) PHP/8.2.13 configured -- resuming normal operations
+[Wed Mar 12 19:21:25.087328 2025] [mpm_winnt:notice] [pid 22136:tid 476] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Wed Mar 12 19:21:25.087328 2025] [core:notice] [pid 22136:tid 476] AH00094: Command line: 'mapache.exe -d D:/Projects/DokuWikiStick/server'
+[Wed Mar 12 19:21:25.090819 2025] [mpm_winnt:notice] [pid 22136:tid 476] AH00418: Parent: Created child process 6044
+[Wed Mar 12 19:21:25.535921 2025] [mpm_winnt:notice] [pid 6044:tid 440] AH00354: Child: Starting 24 worker threads.
+[Wed Mar 12 20:50:49.707940 2025] [core:warn] [pid 6284:tid 444] AH00098: pid file D:/Projects/DokuWikiStick/server/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Mar 12 20:50:50.958170 2025] [mpm_winnt:notice] [pid 6284:tid 444] AH00455: Apache/2.4.58 (Win64) PHP/8.2.13 configured -- resuming normal operations
+[Wed Mar 12 20:50:50.958170 2025] [mpm_winnt:notice] [pid 6284:tid 444] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Wed Mar 12 20:50:50.958170 2025] [core:notice] [pid 6284:tid 444] AH00094: Command line: 'mapache.exe -d D:/Projects/DokuWikiStick/server'
+[Wed Mar 12 20:50:50.960168 2025] [mpm_winnt:notice] [pid 6284:tid 444] AH00418: Parent: Created child process 15716
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 15716:tid 476] AH00354: Child: Starting 24 worker threads.
+[Wed Mar 12 22:38:35.456314 2025] [mpm_winnt:notice] [pid 6284:tid 444] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Wed Mar 12 22:38:37.469588 2025] [mpm_winnt:notice] [pid 15716:tid 476] AH00364: Child: All worker threads have exited.
+[Wed Mar 12 22:38:37.519255 2025] [mpm_winnt:notice] [pid 6284:tid 444] AH00430: Parent: Child process 15716 exited successfully.
+[Thu Mar 13 20:32:48.150047 2025] [mpm_winnt:notice] [pid 16124:tid 452] AH00455: Apache/2.4.58 (Win64) PHP/8.2.13 configured -- resuming normal operations
+[Thu Mar 13 20:32:48.151047 2025] [mpm_winnt:notice] [pid 16124:tid 452] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Thu Mar 13 20:32:48.151047 2025] [core:notice] [pid 16124:tid 452] AH00094: Command line: 'mapache.exe -d D:/Projects/DokuWikiStick/server'
+[Thu Mar 13 20:32:48.153065 2025] [mpm_winnt:notice] [pid 16124:tid 452] AH00418: Parent: Created child process 16884
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 16884:tid 440] AH00354: Child: Starting 24 worker threads.
+[Thu Mar 13 20:42:47.018141 2025] [mpm_winnt:notice] [pid 16124:tid 452] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu Mar 13 20:42:49.034520 2025] [mpm_winnt:notice] [pid 16884:tid 440] AH00364: Child: All worker threads have exited.
+[Thu Mar 13 20:42:49.083577 2025] [mpm_winnt:notice] [pid 16124:tid 452] AH00430: Parent: Child process 16884 exited successfully.
+[Fri Mar 14 10:06:52.158205 2025] [mpm_winnt:notice] [pid 20332:tid 472] AH00455: Apache/2.4.58 (Win64) PHP/8.2.13 configured -- resuming normal operations
+[Fri Mar 14 10:06:52.158205 2025] [mpm_winnt:notice] [pid 20332:tid 472] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Fri Mar 14 10:06:52.158205 2025] [core:notice] [pid 20332:tid 472] AH00094: Command line: 'mapache.exe -d D:/Projects/DokuWikiStick/server'
+[Fri Mar 14 10:06:52.166389 2025] [mpm_winnt:notice] [pid 20332:tid 472] AH00418: Parent: Created child process 22116
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 22116:tid 484] AH00354: Child: Starting 24 worker threads.
+[Fri Mar 14 10:07:16.044362 2025] [authz_core:error] [pid 22116:tid 848] [client 127.0.0.1:49813] AH01630: client denied by server configuration: D:/Projects/DokuWikiStick/dokuwiki/data/dont-panic-if-you-see-this-in-your-logs-it-means-your-directory-permissions-are-correct.png, referer: http://localhost:8800/doku.php?id=paradise_papers_-_the_secrets_of_the_rich&do=admin
+[Fri Mar 14 10:13:23.496779 2025] [mpm_winnt:notice] [pid 20332:tid 472] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Mar 14 10:13:25.505367 2025] [mpm_winnt:notice] [pid 22116:tid 484] AH00364: Child: All worker threads have exited.
+[Fri Mar 14 10:13:25.554734 2025] [mpm_winnt:notice] [pid 20332:tid 472] AH00430: Parent: Child process 22116 exited successfully.
+[Fri Mar 14 10:40:53.606257 2025] [mpm_winnt:notice] [pid 17608:tid 460] AH00455: Apache/2.4.58 (Win64) PHP/8.2.13 configured -- resuming normal operations
+[Fri Mar 14 10:40:53.606257 2025] [mpm_winnt:notice] [pid 17608:tid 460] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Fri Mar 14 10:40:53.606257 2025] [core:notice] [pid 17608:tid 460] AH00094: Command line: 'mapache.exe -d D:/Projects/DokuWikiStick/server'
+[Fri Mar 14 10:40:53.606257 2025] [mpm_winnt:notice] [pid 17608:tid 460] AH00418: Parent: Created child process 21784
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 21784:tid 464] AH00354: Child: Starting 24 worker threads.
+[Fri Mar 14 10:41:23.690314 2025] [authz_core:error] [pid 21784:tid 864] [client 127.0.0.1:49772] AH01630: client denied by server configuration: D:/Projects/DokuWikiStick/dokuwiki/data/dont-panic-if-you-see-this-in-your-logs-it-means-your-directory-permissions-are-correct.png, referer: http://localhost:8800/doku.php?id=main_page&do=admin
+[Fri Mar 14 11:16:53.618514 2025] [mpm_winnt:notice] [pid 17608:tid 460] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Mar 14 11:16:55.626362 2025] [mpm_winnt:notice] [pid 21784:tid 464] AH00364: Child: All worker threads have exited.
+[Fri Mar 14 11:16:55.676649 2025] [mpm_winnt:notice] [pid 17608:tid 460] AH00430: Parent: Child process 21784 exited successfully.
+[Fri Mar 14 14:25:49.750007 2025] [mpm_winnt:notice] [pid 21532:tid 456] AH00455: Apache/2.4.58 (Win64) PHP/8.2.13 configured -- resuming normal operations
+[Fri Mar 14 14:25:49.752035 2025] [mpm_winnt:notice] [pid 21532:tid 456] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Fri Mar 14 14:25:49.752035 2025] [core:notice] [pid 21532:tid 456] AH00094: Command line: 'mapache.exe -d D:/Projects/DokuWikiStick/server'
+[Fri Mar 14 14:25:49.754009 2025] [mpm_winnt:notice] [pid 21532:tid 456] AH00418: Parent: Created child process 23244
+[Fri Mar 14 14:25:50.202314 2025] [mpm_winnt:notice] [pid 23244:tid 472] AH00354: Child: Starting 24 worker threads.
+[Fri Mar 14 14:27:58.230082 2025] [authz_core:error] [pid 23244:tid 852] [client 127.0.0.1:50825] AH01630: client denied by server configuration: D:/Projects/DokuWikiStick/dokuwiki/data/dont-panic-if-you-see-this-in-your-logs-it-means-your-directory-permissions-are-correct.png, referer: http://localhost:8800/doku.php?id=paradise_papers_-_the_secrets_of_the_rich&do=admin
+[Fri Mar 14 15:16:39.141341 2025] [core:warn] [pid 15372:tid 484] AH00098: pid file D:/Projects/DokuWikiStick/server/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Mar 14 15:16:40.518994 2025] [mpm_winnt:notice] [pid 15372:tid 484] AH00455: Apache/2.4.58 (Win64) PHP/8.2.13 configured -- resuming normal operations
+[Fri Mar 14 15:16:40.518994 2025] [mpm_winnt:notice] [pid 15372:tid 484] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Fri Mar 14 15:16:40.518994 2025] [core:notice] [pid 15372:tid 484] AH00094: Command line: 'mapache.exe -d D:/Projects/DokuWikiStick/server'
+[Fri Mar 14 15:16:40.522027 2025] [mpm_winnt:notice] [pid 15372:tid 484] AH00418: Parent: Created child process 23060
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 23060:tid 468] AH00354: Child: Starting 24 worker threads.
+[Fri Mar 14 15:48:45.493898 2025] [mpm_winnt:notice] [pid 15372:tid 484] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Mar 14 15:48:47.506993 2025] [mpm_winnt:notice] [pid 23060:tid 468] AH00364: Child: All worker threads have exited.
+[Fri Mar 14 15:48:47.572509 2025] [mpm_winnt:notice] [pid 15372:tid 484] AH00430: Parent: Child process 23060 exited successfully.
+[Sat Mar 15 15:35:45.297933 2025] [mpm_winnt:notice] [pid 10028:tid 448] AH00455: Apache/2.4.58 (Win64) PHP/8.2.13 configured -- resuming normal operations
+[Sat Mar 15 15:35:45.298934 2025] [mpm_winnt:notice] [pid 10028:tid 448] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Sat Mar 15 15:35:45.298934 2025] [core:notice] [pid 10028:tid 448] AH00094: Command line: 'mapache.exe -d D:/Projects/DokuWikiStick/server'
+[Sat Mar 15 15:35:45.301046 2025] [mpm_winnt:notice] [pid 10028:tid 448] AH00418: Parent: Created child process 18572
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 18572:tid 440] AH00354: Child: Starting 24 worker threads.
+[Sat Mar 15 15:35:55.387518 2025] [mpm_winnt:notice] [pid 10028:tid 448] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sat Mar 15 15:35:57.414717 2025] [mpm_winnt:notice] [pid 18572:tid 440] AH00364: Child: All worker threads have exited.
+[Sat Mar 15 15:35:57.464200 2025] [mpm_winnt:notice] [pid 10028:tid 448] AH00430: Parent: Child process 18572 exited successfully.
+[Sat Mar 15 15:48:26.340694 2025] [mpm_winnt:notice] [pid 15332:tid 444] AH00455: Apache/2.4.58 (Win64) PHP/8.2.13 configured -- resuming normal operations
+[Sat Mar 15 15:48:26.340694 2025] [mpm_winnt:notice] [pid 15332:tid 444] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Sat Mar 15 15:48:26.340694 2025] [core:notice] [pid 15332:tid 444] AH00094: Command line: 'mapache.exe -d D:/Projects/DokuWikiStick/server'
+[Sat Mar 15 15:48:26.342636 2025] [mpm_winnt:notice] [pid 15332:tid 444] AH00418: Parent: Created child process 21500
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 21500:tid 464] AH00354: Child: Starting 24 worker threads.
+[Sat Mar 15 16:28:22.805494 2025] [mpm_winnt:notice] [pid 15332:tid 444] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sat Mar 15 16:28:24.831769 2025] [mpm_winnt:notice] [pid 21500:tid 464] AH00364: Child: All worker threads have exited.
+[Sat Mar 15 16:28:24.877312 2025] [mpm_winnt:notice] [pid 15332:tid 444] AH00430: Parent: Child process 21500 exited successfully.

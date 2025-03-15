@@ -1,0 +1,23 @@
+2025-03-13 12:41:08	D:\Projects\DokuWikiStick\dokuwiki\inc\JpegMeta.php(3183)	E_WARNING: JPEGMeta failed parsing image metadata of D:/Projects/DokuWikiStick/dokuwiki/data/media/paradise-papers-artwork-1600w.jpg. Got 22 instead of 29 bytes at offset 0.
+  #0 D:\Projects\DokuWikiStick\dokuwiki\inc\JpegMeta.php(1574): JpegMeta->_getFixedString()
+  #1 D:\Projects\DokuWikiStick\dokuwiki\inc\JpegMeta.php(345): JpegMeta->_parseMarkerXmp()
+  #2 D:\Projects\DokuWikiStick\dokuwiki\inc\JpegMeta.php(152): JpegMeta->getXmpField()
+  #3 D:\Projects\DokuWikiStick\dokuwiki\inc\Ui\Media\DisplayRow.php(71): JpegMeta->getField()
+  #4 D:\Projects\DokuWikiStick\dokuwiki\inc\Ui\Media\DisplayRow.php(51): dokuwiki\Ui\Media\DisplayRow->showDetails()
+  #5 D:\Projects\DokuWikiStick\dokuwiki\inc\media.php(752): dokuwiki\Ui\Media\DisplayRow->show()
+  #6 D:\Projects\DokuWikiStick\dokuwiki\inc\template.php(1424): media_filelist()
+  #7 D:\Projects\DokuWikiStick\dokuwiki\lib\tpl\dokuwiki\mediamanager.php(41): tpl_mediaContent()
+  #8 D:\Projects\DokuWikiStick\dokuwiki\lib\exe\mediamanager.php(130): include('...')
+  #9 {main}
+2025-03-13 12:41:12	D:\Projects\DokuWikiStick\dokuwiki\inc\JpegMeta.php(3183)	E_WARNING: JPEGMeta failed parsing image metadata of D:/Projects/DokuWikiStick/dokuwiki/data/media/paradise-papers-artwork-1600w.jpg. Got 22 instead of 29 bytes at offset 0.
+  #0 D:\Projects\DokuWikiStick\dokuwiki\inc\JpegMeta.php(1574): JpegMeta->_getFixedString()
+  #1 D:\Projects\DokuWikiStick\dokuwiki\inc\JpegMeta.php(345): JpegMeta->_parseMarkerXmp()
+  #2 D:\Projects\DokuWikiStick\dokuwiki\inc\JpegMeta.php(152): JpegMeta->getXmpField()
+  #3 D:\Projects\DokuWikiStick\dokuwiki\inc\Ui\Media\DisplayRow.php(71): JpegMeta->getField()
+  #4 D:\Projects\DokuWikiStick\dokuwiki\inc\Ui\Media\DisplayRow.php(51): dokuwiki\Ui\Media\DisplayRow->showDetails()
+  #5 D:\Projects\DokuWikiStick\dokuwiki\inc\media.php(752): dokuwiki\Ui\Media\DisplayRow->show()
+  #6 D:\Projects\DokuWikiStick\dokuwiki\inc\template.php(1424): media_filelist()
+  #7 D:\Projects\DokuWikiStick\dokuwiki\inc\Ajax.php(224): tpl_mediaContent()
+  #8 D:\Projects\DokuWikiStick\dokuwiki\inc\Ajax.php(28): dokuwiki\Ajax->callMedialist()
+  #9 D:\Projects\DokuWikiStick\dokuwiki\lib\exe\ajax.php(26): dokuwiki\Ajax->__construct()
+  #10 {main}

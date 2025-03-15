@@ -1,0 +1,78 @@
+2025-03-12 02:09:34	D:\Projects\DokuWikiStick\dokuwiki\inc\JpegMeta.php(3183)	E_WARNING: JPEGMeta failed parsing image metadata of D:/Projects/DokuWikiStick/dokuwiki/data/media/paradise-papers-artwork-1600w.jpg. Got 22 instead of 29 bytes at offset 0.
+  #0 D:\Projects\DokuWikiStick\dokuwiki\inc\JpegMeta.php(1574): JpegMeta->_getFixedString()
+  #1 D:\Projects\DokuWikiStick\dokuwiki\inc\JpegMeta.php(345): JpegMeta->_parseMarkerXmp()
+  #2 D:\Projects\DokuWikiStick\dokuwiki\inc\JpegMeta.php(152): JpegMeta->getXmpField()
+  #3 D:\Projects\DokuWikiStick\dokuwiki\inc\Ui\Media\DisplayRow.php(71): JpegMeta->getField()
+  #4 D:\Projects\DokuWikiStick\dokuwiki\inc\Ui\Media\DisplayRow.php(51): dokuwiki\Ui\Media\DisplayRow->showDetails()
+  #5 D:\Projects\DokuWikiStick\dokuwiki\inc\media.php(752): dokuwiki\Ui\Media\DisplayRow->show()
+  #6 D:\Projects\DokuWikiStick\dokuwiki\inc\template.php(1424): media_filelist()
+  #7 D:\Projects\DokuWikiStick\dokuwiki\lib\tpl\dokuwiki\mediamanager.php(41): tpl_mediaContent()
+  #8 D:\Projects\DokuWikiStick\dokuwiki\lib\exe\mediamanager.php(130): include('...')
+  #9 {main}
+2025-03-12 02:09:39	D:\Projects\DokuWikiStick\dokuwiki\inc\JpegMeta.php(3183)	E_WARNING: JPEGMeta failed parsing image metadata of D:/Projects/DokuWikiStick/dokuwiki/data/media/paradise-papers-artwork-1600w.jpg. Got 22 instead of 29 bytes at offset 0.
+  #0 D:\Projects\DokuWikiStick\dokuwiki\inc\JpegMeta.php(1574): JpegMeta->_getFixedString()
+  #1 D:\Projects\DokuWikiStick\dokuwiki\inc\JpegMeta.php(345): JpegMeta->_parseMarkerXmp()
+  #2 D:\Projects\DokuWikiStick\dokuwiki\inc\JpegMeta.php(152): JpegMeta->getXmpField()
+  #3 D:\Projects\DokuWikiStick\dokuwiki\inc\Ui\Media\DisplayRow.php(71): JpegMeta->getField()
+  #4 D:\Projects\DokuWikiStick\dokuwiki\inc\Ui\Media\DisplayRow.php(51): dokuwiki\Ui\Media\DisplayRow->showDetails()
+  #5 D:\Projects\DokuWikiStick\dokuwiki\inc\media.php(752): dokuwiki\Ui\Media\DisplayRow->show()
+  #6 D:\Projects\DokuWikiStick\dokuwiki\inc\template.php(1424): media_filelist()
+  #7 D:\Projects\DokuWikiStick\dokuwiki\lib\tpl\dokuwiki\mediamanager.php(41): tpl_mediaContent()
+  #8 D:\Projects\DokuWikiStick\dokuwiki\lib\exe\mediamanager.php(130): include('...')
+  #9 {main}
+2025-03-12 02:09:43	D:\Projects\DokuWikiStick\dokuwiki\inc\JpegMeta.php(3183)	E_WARNING: JPEGMeta failed parsing image metadata of D:/Projects/DokuWikiStick/dokuwiki/data/media/paradise-papers-artwork-1600w.jpg. Got 22 instead of 29 bytes at offset 0.
+  #0 D:\Projects\DokuWikiStick\dokuwiki\inc\JpegMeta.php(1574): JpegMeta->_getFixedString()
+  #1 D:\Projects\DokuWikiStick\dokuwiki\inc\JpegMeta.php(345): JpegMeta->_parseMarkerXmp()
+  #2 D:\Projects\DokuWikiStick\dokuwiki\inc\JpegMeta.php(152): JpegMeta->getXmpField()
+  #3 D:\Projects\DokuWikiStick\dokuwiki\inc\Ui\Media\DisplayRow.php(71): JpegMeta->getField()
+  #4 D:\Projects\DokuWikiStick\dokuwiki\inc\Ui\Media\DisplayRow.php(51): dokuwiki\Ui\Media\DisplayRow->showDetails()
+  #5 D:\Projects\DokuWikiStick\dokuwiki\inc\media.php(752): dokuwiki\Ui\Media\DisplayRow->show()
+  #6 D:\Projects\DokuWikiStick\dokuwiki\inc\template.php(1424): media_filelist()
+  #7 D:\Projects\DokuWikiStick\dokuwiki\inc\Ajax.php(224): tpl_mediaContent()
+  #8 D:\Projects\DokuWikiStick\dokuwiki\inc\Ajax.php(28): dokuwiki\Ajax->callMedialist()
+  #9 D:\Projects\DokuWikiStick\dokuwiki\lib\exe\ajax.php(26): dokuwiki\Ajax->__construct()
+  #10 {main}
+2025-03-12 02:30:11	D:\Projects\DokuWikiStick\dokuwiki\inc\JpegMeta.php(3183)	E_WARNING: JPEGMeta failed parsing image metadata of D:/Projects/DokuWikiStick/dokuwiki/data/media/paradise-papers-artwork-1600w.jpg. Got 22 instead of 29 bytes at offset 0.
+  #0 D:\Projects\DokuWikiStick\dokuwiki\inc\JpegMeta.php(1574): JpegMeta->_getFixedString()
+  #1 D:\Projects\DokuWikiStick\dokuwiki\inc\JpegMeta.php(345): JpegMeta->_parseMarkerXmp()
+  #2 D:\Projects\DokuWikiStick\dokuwiki\inc\JpegMeta.php(152): JpegMeta->getXmpField()
+  #3 D:\Projects\DokuWikiStick\dokuwiki\inc\Ui\Media\DisplayRow.php(71): JpegMeta->getField()
+  #4 D:\Projects\DokuWikiStick\dokuwiki\inc\Ui\Media\DisplayRow.php(51): dokuwiki\Ui\Media\DisplayRow->showDetails()
+  #5 D:\Projects\DokuWikiStick\dokuwiki\inc\media.php(752): dokuwiki\Ui\Media\DisplayRow->show()
+  #6 D:\Projects\DokuWikiStick\dokuwiki\inc\template.php(1424): media_filelist()
+  #7 D:\Projects\DokuWikiStick\dokuwiki\lib\tpl\dokuwiki\mediamanager.php(41): tpl_mediaContent()
+  #8 D:\Projects\DokuWikiStick\dokuwiki\lib\exe\mediamanager.php(130): include('...')
+  #9 {main}
+2025-03-12 11:14:52	D:\Projects\DokuWikiStick\dokuwiki\lib\plugins\toctweak\action\rendertoc.php(217)	TypeError: Cannot access offset of type string on string
+  #0 D:\Projects\DokuWikiStick\dokuwiki\inc\Extension\EventHandler.php(80): action_plugin_toctweak_rendertoc->handleContentDisplay()
+  #1 D:\Projects\DokuWikiStick\dokuwiki\inc\Extension\Event.php(75): dokuwiki\Extension\EventHandler->process_event()
+  #2 D:\Projects\DokuWikiStick\dokuwiki\inc\Extension\Event.php(133): dokuwiki\Extension\Event->advise_before()
+  #3 D:\Projects\DokuWikiStick\dokuwiki\inc\Extension\Event.php(200): dokuwiki\Extension\Event->trigger()
+  #4 D:\Projects\DokuWikiStick\dokuwiki\inc\template.php(104): dokuwiki\Extension\Event::createAndTrigger()
+  #5 D:\Projects\DokuWikiStick\dokuwiki\lib\tpl\dokuwiki\main.php(60): tpl_content()
+  #6 D:\Projects\DokuWikiStick\dokuwiki\inc\actions.php(30): include('...')
+  #7 D:\Projects\DokuWikiStick\dokuwiki\doku.php(131): act_dispatch()
+  #8 {main}
+2025-03-12 14:37:15	D:\Projects\DokuWikiStick\dokuwiki\inc\JpegMeta.php(3183)	E_WARNING: JPEGMeta failed parsing image metadata of D:/Projects/DokuWikiStick/dokuwiki/data/media/paradise-papers-artwork-1600w.jpg. Got 22 instead of 29 bytes at offset 0.
+  #0 D:\Projects\DokuWikiStick\dokuwiki\inc\JpegMeta.php(1574): JpegMeta->_getFixedString()
+  #1 D:\Projects\DokuWikiStick\dokuwiki\inc\JpegMeta.php(345): JpegMeta->_parseMarkerXmp()
+  #2 D:\Projects\DokuWikiStick\dokuwiki\inc\JpegMeta.php(152): JpegMeta->getXmpField()
+  #3 D:\Projects\DokuWikiStick\dokuwiki\inc\Ui\Media\DisplayRow.php(71): JpegMeta->getField()
+  #4 D:\Projects\DokuWikiStick\dokuwiki\inc\Ui\Media\DisplayRow.php(51): dokuwiki\Ui\Media\DisplayRow->showDetails()
+  #5 D:\Projects\DokuWikiStick\dokuwiki\inc\media.php(752): dokuwiki\Ui\Media\DisplayRow->show()
+  #6 D:\Projects\DokuWikiStick\dokuwiki\inc\template.php(1424): media_filelist()
+  #7 D:\Projects\DokuWikiStick\dokuwiki\lib\tpl\dokuwiki\mediamanager.php(41): tpl_mediaContent()
+  #8 D:\Projects\DokuWikiStick\dokuwiki\lib\exe\mediamanager.php(130): include('...')
+  #9 {main}
+2025-03-12 14:37:25	D:\Projects\DokuWikiStick\dokuwiki\inc\JpegMeta.php(3183)	E_WARNING: JPEGMeta failed parsing image metadata of D:/Projects/DokuWikiStick/dokuwiki/data/media/paradise-papers-artwork-1600w.jpg. Got 22 instead of 29 bytes at offset 0.
+  #0 D:\Projects\DokuWikiStick\dokuwiki\inc\JpegMeta.php(1574): JpegMeta->_getFixedString()
+  #1 D:\Projects\DokuWikiStick\dokuwiki\inc\JpegMeta.php(345): JpegMeta->_parseMarkerXmp()
+  #2 D:\Projects\DokuWikiStick\dokuwiki\inc\JpegMeta.php(152): JpegMeta->getXmpField()
+  #3 D:\Projects\DokuWikiStick\dokuwiki\inc\Ui\Media\DisplayRow.php(71): JpegMeta->getField()
+  #4 D:\Projects\DokuWikiStick\dokuwiki\inc\Ui\Media\DisplayRow.php(51): dokuwiki\Ui\Media\DisplayRow->showDetails()
+  #5 D:\Projects\DokuWikiStick\dokuwiki\inc\media.php(752): dokuwiki\Ui\Media\DisplayRow->show()
+  #6 D:\Projects\DokuWikiStick\dokuwiki\inc\template.php(1424): media_filelist()
+  #7 D:\Projects\DokuWikiStick\dokuwiki\inc\Ajax.php(224): tpl_mediaContent()
+  #8 D:\Projects\DokuWikiStick\dokuwiki\inc\Ajax.php(28): dokuwiki\Ajax->callMedialist()
+  #9 D:\Projects\DokuWikiStick\dokuwiki\lib\exe\ajax.php(26): dokuwiki\Ajax->__construct()
+  #10 {main}

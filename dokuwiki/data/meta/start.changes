@@ -1,0 +1,11 @@
+1740806602	127.0.0.1	C	start	someguy	created		21
+1740807849	127.0.0.1	D	start	someguy	removed		-21
+1740808383	127.0.0.1	C	start	someguy	created		64
+1740808392	127.0.0.1	E	start	someguy			9
+1740808407	127.0.0.1	E	start	someguy			1
+1740808422	127.0.0.1	E	start	someguy			-9
+1740808447	127.0.0.1	E	start	someguy			4
+1740808459	127.0.0.1	E	start	someguy			-4
+1740808464	127.0.0.1	E	start	someguy			-2
+1740808572	127.0.0.1	E	start	someguy			4
+1740823622	127.0.0.1	E	start	someguy			60

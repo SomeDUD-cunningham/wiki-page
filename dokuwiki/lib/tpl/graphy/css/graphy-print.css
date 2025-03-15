@@ -1,0 +1,30 @@
+
+/* Print
+------------------------------------------------------------ */
+
+@media print {
+	html, body {
+		background: none !important;
+		color: #000 !important;
+		font-size: 10pt !important;
+	}
+	.header-social-link,
+	.main-navigation,
+	.widget,
+	.comments-area .comment-edit-link,
+	.comments-area .reply,
+	.comment-respond,
+	.navigation,
+	#infinite-handle,
+	.sidebar-area,
+	.footer-widget-wrapper {
+		display: none !important;
+	}
+	.site-content {
+		max-width: none;
+	}
+	.site-bottom,
+	.site-bottom a {
+		color: #000;
+	}
+}
