@@ -432,3 +432,62 @@ pm_winnt:notice] [pid 21500:tid 464] AH00354: Child: Starting 24 worker threads.
 [Sat Mar 15 16:28:22.805494 2025] [mpm_winnt:notice] [pid 15332:tid 444] AH00422: Parent: Received shutdown signal -- Shutting down the server.
 [Sat Mar 15 16:28:24.831769 2025] [mpm_winnt:notice] [pid 21500:tid 464] AH00364: Child: All worker threads have exited.
 [Sat Mar 15 16:28:24.877312 2025] [mpm_winnt:notice] [pid 15332:tid 444] AH00430: Parent: Child process 21500 exited successfully.
+[Sat Mar 15 17:40:14.371474 2025] [mpm_winnt:notice] [pid 18080:tid 448] AH00455: Apache/2.4.58 (Win64) PHP/8.2.13 configured -- resuming normal operations
+[Sat Mar 15 17:40:14.371474 2025] [mpm_winnt:notice] [pid 18080:tid 448] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Sat Mar 15 17:40:14.371474 2025] [core:notice] [pid 18080:tid 448] AH00094: Command line: 'mapache.exe -d D:/Projects/DokuWikiStick/server'
+[Sat Mar 15 17:40:14.374473 2025] [mpm_winnt:notice] [pid 18080:tid 448] AH00418: Parent: Created child process 496
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 496:tid 448] AH00354: Child: Starting 24 worker threads.
+[Sat Mar 15 17:40:17.501181 2025] [mpm_winnt:notice] [pid 18080:tid 448] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sat Mar 15 17:40:19.510077 2025] [mpm_winnt:notice] [pid 496:tid 448] AH00364: Child: All worker threads have exited.
+[Sat Mar 15 17:40:19.544415 2025] [mpm_winnt:notice] [pid 18080:tid 448] AH00430: Parent: Child process 496 exited successfully.
+[Sat Mar 15 17:47:49.010428 2025] [mpm_winnt:notice] [pid 19064:tid 472] AH00455: Apache/2.4.58 (Win64) PHP/8.2.13 configured -- resuming normal operations
+[Sat Mar 15 17:47:49.010428 2025] [mpm_winnt:notice] [pid 19064:tid 472] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Sat Mar 15 17:47:49.010428 2025] [core:notice] [pid 19064:tid 472] AH00094: Command line: 'mapache.exe -d D:/Projects/DokuWikiStick/server'
+[Sat Mar 15 17:47:49.012429 2025] [mpm_winnt:notice] [pid 19064:tid 472] AH00418: Parent: Created child process 8652
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 8652:tid 440] AH00354: Child: Starting 24 worker threads.
+[Sat Mar 15 17:47:53.405582 2025] [authz_core:error] [pid 8652:tid 892] [client 127.0.0.1:52006] AH01630: client denied by server configuration: D:/Projects/DokuWikiStick/dokuwiki/data/dont-panic-if-you-see-this-in-your-logs-it-means-your-directory-permissions-are-correct.png, referer: http://localhost:8800/doku.php?id=main_page&do=admin
+[Sat Mar 15 17:48:39.762487 2025] [mpm_winnt:notice] [pid 19064:tid 472] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sat Mar 15 17:48:41.771948 2025] [mpm_winnt:notice] [pid 8652:tid 440] AH00364: Child: All worker threads have exited.
+[Sat Mar 15 17:48:41.826295 2025] [mpm_winnt:notice] [pid 19064:tid 472] AH00430: Parent: Child process 8652 exited successfully.
+[Sat Mar 15 17:55:30.933389 2025] [mpm_winnt:notice] [pid 11572:tid 448] AH00455: Apache/2.4.58 (Win64) PHP/8.2.13 configured -- resuming normal operations
+[Sat Mar 15 17:55:30.933389 2025] [mpm_winnt:notice] [pid 11572:tid 448] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Sat Mar 15 17:55:30.933389 2025] [core:notice] [pid 11572:tid 448] AH00094: Command line: 'mapache.exe -d D:/Projects/DokuWikiStick/server'
+[Sat Mar 15 17:55:30.935391 2025] [mpm_winnt:notice] [pid 11572:tid 448] AH00418: Parent: Created child process 4460
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 4460:tid 452] AH00354: Child: Starting 24 worker threads.
+[Sat Mar 15 17:55:36.628492 2025] [authz_core:error] [pid 4460:tid 592] [client 127.0.0.1:52085] AH01630: client denied by server configuration: D:/Projects/DokuWikiStick/dokuwiki/data/dont-panic-if-you-see-this-in-your-logs-it-means-your-directory-permissions-are-correct.png, referer: http://localhost:8800/doku.php?id=main_page&do=admin
+[Sat Mar 15 17:57:47.892703 2025] [mpm_winnt:notice] [pid 11572:tid 448] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sat Mar 15 17:57:49.907245 2025] [mpm_winnt:notice] [pid 4460:tid 452] AH00364: Child: All worker threads have exited.
+[Sat Mar 15 17:57:49.939555 2025] [mpm_winnt:notice] [pid 11572:tid 448] AH00430: Parent: Child process 4460 exited successfully.
+[Sat Mar 15 18:13:30.590130 2025] [mpm_winnt:notice] [pid 14864:tid 448] AH00455: Apache/2.4.58 (Win64) PHP/8.2.13 configured -- resuming normal operations
+[Sat Mar 15 18:13:30.590130 2025] [mpm_winnt:notice] [pid 14864:tid 448] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Sat Mar 15 18:13:30.590130 2025] [core:notice] [pid 14864:tid 448] AH00094: Command line: 'mapache.exe -d D:/Projects/DokuWikiStick/server'
+[Sat Mar 15 18:13:30.592140 2025] [mpm_winnt:notice] [pid 14864:tid 448] AH00418: Parent: Created child process 8700
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 8700:tid 440] AH00354: Child: Starting 24 worker threads.
+[Sat Mar 15 18:13:35.505774 2025] [authz_core:error] [pid 8700:tid 932] [client 127.0.0.1:52412] AH01630: client denied by server configuration: D:/Projects/DokuWikiStick/dokuwiki/data/dont-panic-if-you-see-this-in-your-logs-it-means-your-directory-permissions-are-correct.png, referer: http://localhost:8800/doku.php?id=main_page&do=admin
+[Sat Mar 15 18:13:48.448887 2025] [mpm_winnt:notice] [pid 14864:tid 448] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sat Mar 15 18:13:50.464777 2025] [mpm_winnt:notice] [pid 8700:tid 440] AH00364: Child: All worker threads have exited.
+[Sat Mar 15 18:13:50.496881 2025] [mpm_winnt:notice] [pid 14864:tid 448] AH00430: Parent: Child process 8700 exited successfully.
+[Sat Mar 15 18:14:48.117735 2025] [mpm_winnt:notice] [pid 18072:tid 192] AH00455: Apache/2.4.58 (Win64) PHP/8.2.13 configured -- resuming normal operations
+[Sat Mar 15 18:14:48.117735 2025] [mpm_winnt:notice] [pid 18072:tid 192] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Sat Mar 15 18:14:48.117735 2025] [core:notice] [pid 18072:tid 192] AH00094: Command line: 'mapache.exe -d D:/Projects/DokuWikiStick/server'
+[Sat Mar 15 18:14:48.119721 2025] [mpm_winnt:notice] [pid 18072:tid 192] AH00418: Parent: Created child process 8564
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 8564:tid 440] AH00354: Child: Starting 24 worker threads.
+[Sat Mar 15 18:15:02.388610 2025] [authz_core:error] [pid 8564:tid 892] [client 127.0.0.1:52461] AH01630: client denied by server configuration: D:/Projects/DokuWikiStick/dokuwiki/data/dont-panic-if-you-see-this-in-your-logs-it-means-your-directory-permissions-are-correct.png, referer: http://localhost:8800/doku.php?id=main_page&do=admin
+[Sat Mar 15 18:15:58.496577 2025] [mpm_winnt:notice] [pid 18072:tid 192] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sat Mar 15 18:16:00.517485 2025] [mpm_winnt:notice] [pid 8564:tid 440] AH00364: Child: All worker threads have exited.
+[Sat Mar 15 18:16:00.568581 2025] [mpm_winnt:notice] [pid 18072:tid 192] AH00430: Parent: Child process 8564 exited successfully.
+[Sat Mar 15 18:16:17.632516 2025] [mpm_winnt:notice] [pid 21600:tid 448] AH00455: Apache/2.4.58 (Win64) PHP/8.2.13 configured -- resuming normal operations
+[Sat Mar 15 18:16:17.632516 2025] [mpm_winnt:notice] [pid 21600:tid 448] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Sat Mar 15 18:16:17.632516 2025] [core:notice] [pid 21600:tid 448] AH00094: Command line: 'mapache.exe -d D:/Projects/DokuWikiStick/server'
+[Sat Mar 15 18:16:17.635515 2025] [mpm_winnt:notice] [pid 21600:tid 448] AH00418: Parent: Created child process 18660
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 18660:tid 448] AH00354: Child: Starting 24 worker threads.
+[Sat Mar 15 18:16:21.024369 2025] [authz_core:error] [pid 18660:tid 864] [client 127.0.0.1:52519] AH01630: client denied by server configuration: D:/Projects/DokuWikiStick/dokuwiki/data/dont-panic-if-you-see-this-in-your-logs-it-means-your-directory-permissions-are-correct.png, referer: http://localhost:8800/doku.php?id=main_page&do=admin
+[Sat Mar 15 18:21:29.784182 2025] [mpm_winnt:notice] [pid 21600:tid 448] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sat Mar 15 18:21:31.800119 2025] [mpm_winnt:notice] [pid 18660:tid 448] AH00364: Child: All worker threads have exited.
+[Sat Mar 15 18:21:31.833235 2025] [mpm_winnt:notice] [pid 21600:tid 448] AH00430: Parent: Child process 18660 exited successfully.
